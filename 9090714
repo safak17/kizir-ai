@@ -1,0 +1,14 @@
+{
+    "Course Code": "9090714",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Multimedia Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Assoc.Prof.Dr. ERDEM AKAGÜNDÜZ",
+    "Offered Semester": "Spring Semesters.",
+    "Prerequisite": "Set 1:9110504Set 2:9090727Set 3:5670543Set 4:5710501",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesVia this course and by the successful completion thereof, the students will:Learn a general problem definition of generative modelingLearn details and use of autoregressive modelsLearn generation-related concepts, such as latent spaces, latent codes, and encodingLearn generative neural models.Learn diffusion-based generation.Learn various evaluation criteria for generative models",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "This advanced deep learning course offers a comprehensive introduction to the principles and practice of generative modeling. Beginning with a review of the mathematical foundations required for the course, students will gain an understanding of the conventional autoregressive methods used in generative modeling, as well as more contemporary techniques such as deep generative neural models and diffusion models. The course covers all fundamental concepts related to generating media, including latent spaces, latent codes, and encoding.\nThroughout the course, students will have access to a wide range of resources, including lectures, readings, and hands-on projects. In addition, a thorough review of recent state-of-the-art studies in the field will be provided each year to ensure students are up to date with the latest advances. By the end of the course, students will have gained the skills and knowledge necessary to tackle real-world generative modeling challenges and become proficient practitioners in this field."
+}

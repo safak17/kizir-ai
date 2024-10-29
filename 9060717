@@ -1,0 +1,13 @@
+{
+    "Course Code": "9060717",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Medical Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Assoc.Prof.Dr. YEÞÝM AYDIN SON",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesUpon completion of the course, students should have understanding and appreciation of:Sensing of vital signals and transmission using wireless networks.Medical information representation framework for mobile health.Patient monitoring and wearable devices.Physiological monitoring on a mobile phone.Context aware mobile health systems.Task distribution for enhanced mobile health application performance.Students will also have gained practical experience on these matters through:Case studiesTerm project",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudent, who passed the course satisfactorily will be able to:fulfill a requirement of physiological monitoring on a mobile phonedesign, develop and implement a mobile health applicaiton",
+    "Course Content": "Integration of mobile technologies and healthcare informatics sets the stage for innovative emerging research discipline titled as mhealth or mobile health. This course will include the basic ideas, tools, case studies and contributions of mobile in healthcare sector. The subjects to be covered will involve mobile and wireless concepts; medical information for mobile health and management; patient monitoring in diverse environment and in hospital; medical body sensor networks; context aware systems; mobile health performance. The course will include class discussions of theoretical concepts and case studies, quizzes, critical reading assignments, a midterm exam and a term project."
+}

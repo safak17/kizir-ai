@@ -1,0 +1,13 @@
+{
+    "Course Code": "9080506",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(2-2)",
+    "ECTS Credit": "8.0",
+    "Department": "Bioinformatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Assoc.Prof.Dr. YEÞÝM AYDIN SON",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesAt the end of the course student will know about different seqeuence analysis methods.Students will learn application areas of different sequence analysis methods.The course will provide basic skills needed for biological sequence analysis",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesAfter  sucessully completing the course :Students will be able to define sequence analysis methodsStudents will be able to state different application areas of sequence analysisStudent will be able to recall and select appropiate tools for different sequence analysis applicationsStudents will determine the correct  parameters for the analysis and perform variety of sequence analysisStudents will be able to interpret the results of sequence analysis methodsStudents will prepare a report on a selected sequece and evaluate its biological characteristicsStudents are expected to be able to critique currents publications on sequence analysis",
+    "Course Content": "This course will cover the methods of DNA and protein sequence analysis in depth including analysis of homology, identification of motifs and domains, pair-wise and multiple alignments, and statistical significance of sequence alignments. The course will also cover sequence and motif databases such as GeneBank, SwissProt, Protiste, and Pfam."
+}

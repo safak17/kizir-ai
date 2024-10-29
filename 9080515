@@ -1,0 +1,14 @@
+{
+    "Course Code": "9080515",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Bioinformatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Prerequisite": "Set 1:9080500Set 2:5710230",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe course objective is to provide fundamentals of structural bioinformatics and computational techniques to analyze molecular structures.Introduction to Structural BioinformaticsUnderstanding the protein structures and interactions.Writing programs to analyze and understand the structures of molecules.Visualization of the structures.Learning the theory of molecular docking, simulations and prediction techniques.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "The course is an introduction to structural bioinformatics. Additionally, advanced techniques used in structural bioinformatics will be covered. In the scope of this course, students will learn to analyze, classify, simulate, predict and visualize biological molecules, mainly proteins. We cover the fundamentals of protein structures, structure determination techniques, molecular dynamics simulations, molecular docking and techniques to predict the protein interaction in atomic resolution."
+}

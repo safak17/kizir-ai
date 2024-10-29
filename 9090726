@@ -1,0 +1,13 @@
+{
+    "Course Code": "9090726",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Multimedia Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesVia this course and by the successful completion thereof, the students will:Learn the processes that lead to standardisation of multimedia processing algorithmsLearn the signal processing techniques that underlie multimedia coding and compressionLearn the multimedia standards currently in use todayLearn the future and emerging multimedia standardsImplement a sub-module of a multimedia standard as formally described",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "Seamless integration and interoperatibility of multimedia systems require standardization of the coding compression, storage and transmission of multimedia content. Several different international bodies such as ISO-MPEG, ITU, EBU,  developed standards for this purpose over the past decades and these developments allowed the proliferation of usage of digital multimedia content such as images, videos, audio and computer graphics. This course aims to teach audio, image, and graphics coding and equip the students with knowledge on the most important and common multimedia standards as well as future and emerging standards."
+}

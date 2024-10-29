@@ -1,0 +1,13 @@
+{
+    "Course Code": "9110504",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Data Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe course will cover various subjects related to fundamental concepts in deep learning. The course starts with the introductory concepts in deep learning, such as neural networks, training, high-level features, and performance evaluations. In the following, the course covers different application fields of deep learning, to what extent the methods succeed, and what the next step is. The course concludes with ethical, legal, and privacy issues in deep learning.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesVia this course and by the successful completion thereof, the students will:Learn fundamental definitions and concepts in deep learningLearn to extract high-level features from various data typesLearn the training procedure and related concepts in deep learning modelsLearn different application fields of deep learning",
+    "Course Content": "The course will cover various subjects related to fundamental concepts in deep learning. The course starts with the introductory concepts in deep learning, such as neural networks, training, high level features and performance evaluations. In the following, the course covers different application fields of deep learning, to what extent the methods succeed and what the next step is. The course is concluded with ethical, legal and privacy issues in deep learning."
+}

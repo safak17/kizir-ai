@@ -1,0 +1,13 @@
+{
+    "Course Code": "9080510",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Bioinformatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Prof.Dr. RENGÜL ATALAY",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe course is interdisciplinary level elective course to be taken by the students from both biological and computational sciences. The aim is to demonstrate the applications of network bioinformatics on various health topics and provide Masters and Ph.D. students an insight into their future thesis projects.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesUpon completion of the course, students:Define, explain, and correctly use terms and concepts used to describe cell-signaling pathways for both biological and computational perspective.Evaluate cause and effect relationships in cellular pathway dynamics using Cytoscape with publicly available data sources with hands on data analysis.Understand the importance of Cytoscape Application (plug-in) development.Develop a concept about the involvement of small molecules (drugs) in cellular networksRead and present pathway informatics research publications about drug development, analyze data, form conclusions, develop models and critical thinking, anddesign new pathway analysis approaches in collaboration with students who has biology/computational background.",
+    "Course Content": "Introduction to Pathway Bioinformatics course provides an introduction to cellular network analysis, pathway bioinformatics and systems pharmacology research. Students will learn how to construct, analyze and visualize different types of cellular pathways using available tools. Main topics include cell-signaling pathways, gene regulatory networks, data collection and integration of drug-target and drug-drug similarity networks, drug induced gene expressions signatures and other functional cellular networks in 4 major health topics: Cancer, Immunology, Neurology and Cardiovascular system. The coursework involves case studies, one term project, homework assignments and exams."
+}

@@ -1,0 +1,13 @@
+{
+    "Course Code": "9040516",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Informatics Online",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "The course provides the basics of computer organization and advanced architectures used in the design of modern computers. Together with fundamentals of computer organization, instruction level parallelism, memory hierarchies, storage systems and multiprocessor systems are given."
+}

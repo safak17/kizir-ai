@@ -1,0 +1,13 @@
+{
+    "Course Code": "9080502",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Bioinformatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Masters",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe main objective of this course is to introduce the participants to fundamentals of statistical methods and probability theory providing examples from cases in informatics and bioinformatics research.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesAfter successfully completing the course:Students will be able to summarize the data by exploratory and descriptive methods.Students will have a good grasp of combinatorics and the principles of probability and the concept of probability distributions.Students will gain working knowledge of common distributions, understand random variables and their algebra, conditionality and independence concepts.Students will gain working knowledge of statistical sampling, estimation and the Central Limit Theorem.Students will learn the properties of estimators and become familiar to different methods of estimation.Students will gain working knowledge of confidence intervals and hypothesis tests,Students will understand the concepts of ANOVA.",
+    "Course Content": "This course serves as a deficiency course for non-statisticians who are studying informatics at graduate level. Fundamentals of statistical methods and probability theory will be covered with specific examples and applications from cases in informatics and bioinformatics research. The topics offered in this course are; Counting, permutations and combinations, axioms of probability, conditional probability and independence, random variables, basic distributions of discrete and continuous random variables, functions of random variables, expectation, variance, covariance and correlation, sampling distributions, the central limit theorem, estimation and confidence intervals, bias, sufficiency, efficiency and consistency of estimators, hypothesis testing, common tests, error types. Non-parametric tests. Linear regression and ANOVA."
+}

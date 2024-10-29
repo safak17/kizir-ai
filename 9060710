@@ -1,0 +1,13 @@
+{
+    "Course Code": "9060710",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Medical Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Assist.Prof.Dr AYBAR CAN ACAR",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesUpon completion of the course, students should havea good understanding conceptual database design,experience with and knowledge of the relational model,working knowledge of dependency theory and database normalization,hands-on practice with, and strong knowledge of query languages,a good grasp of database transactions and concurrency,familiarity with non-relational models,knowledge of interoperability aspects of databases, specifically for health information systems.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesA student successful in this course will be able to:create and read, accurately, ER and EER diagrams,map a conceptual DB design into a set of relations,create and understand queries written in relational algebra, SQL, and relational calculus to perform common information processing and analytics tasks,identify and derive the functional dependencies in a domain,normalize a relational database to a required normal form,create a concurrent database application with full ACID properties,be aware of and know the basics of with distributed key-value stores, columnar databases and document databases,to programatically discover, use and provide web services, in their DB applications.",
+    "Course Content": "Database management system theory on relational database management systems: E-R diagrams, Normal Forms, Transaction processing. SQL data query language. Homework and class assignments on each of these topics, centered on examples from the health information systems. Object oriented databases, and their use in medical informatics. Archetypes, and use of semantic systems in HIS. Standards in medical informatics on interoperability and meta-data."
+}

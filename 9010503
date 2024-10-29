@@ -1,0 +1,12 @@
+{
+    "Course Code": "9010503",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Prof.Dr. TUÐBA TAÞKAYA TEMÝZEL",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesStudents will,Comprehend the key concepts of relational database management system.Develop skills for efficient database design.Understand the role of database management systems in information system design.Understand the multi-user database concerns such as concurrency control and recovery",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudents will,Describe the properties of a relational database systemApply Entity-Relationship (ER) and Extended ER techniques to model a relational databaseImplement an effective relational database such as by applying normal forms and following best practices in ER-to-relational mappingConduct operations using SQL and relational algebraDifferentiate between concurrency control algorithmsDifferentiate between recovery algorithmsDescribe a single and multi-user database systemExplain concurrency control problems",
+    "Course Content": "There will be formal lectures, assignments (4), and a project. Students will submit a proposal at the beginning of the course and during the semester they are required to work on their project and submit necessary reports at intervals."
+}

@@ -1,0 +1,13 @@
+{
+    "Course Code": "9060541",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Medical Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "This course will introduce advanced analysis methods for neural oscillatory studies that exploit LFP, EEG and MEG data with high temporal resolution. The emphasize will be on connectivity measures and on the identification of neural networks using these measures merged with graph theory. Phase and amplitude related couplings will be discussed with regard to cognitive states such as memory and attention. Hands on exercises will be conducted via publicly available toolboxes."
+}

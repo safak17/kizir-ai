@@ -1,0 +1,12 @@
+{
+    "Course Code": "9010523",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Language of Instruction": "English",
+    "Level of Study": "Masters",
+    "Course Coordinator": "Prof.Dr. ALTAN KOÇYÝÐÝT",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesBy the end of the course the students willunderstand and apply iterative incremental software developmentdraw and interpret Unified Modeling Language (UML) diagramsknow and apply evolutionary requirements analysisknow the basic concepts of object oriented analysis and object oriented designunderstand and apply the principles and guidelines on object oriented analysisunderstand and apply the basic principles and guidelines on object oriented designspecify and analyze requirements and construct object oriented software",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesBy the end of the course the students will be able todefine an iterative incremental software development processdefine fundamental concepts in the Unified Processuse the Unified Process in object oriented software developmentcreate requirements, analysis and design artifacts using UMLunderstand dynamic and static object modeling using UML sequence, communication and class diagram notationsinterpret UML diagramsidentify and write use cases at an appropriate level of detailrelate use case analysis to iterative development and utilize use case driven development approachdefine object oriented analysis and object oriented design and related conceptsidentify conceptual classes and model their attributes and associations to create a model of the problem domainanalyze use case scenarios to identify system operations that become starting events to design for and create contracts for system eventsunderstand the responsibility driven design (RDD) approach and create object design using RDDdesign software by using the basic object oriented design principlesassess the qualities of object design alternativesmap designs to code",
+    "Course Content": "Introduction to object oriented analysis and design.Requirements analysis with use cases.Responsibility Driven Design. Gang-of-Four design patterns. Iterative development with the Unified Process."
+}

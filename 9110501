@@ -1,0 +1,13 @@
+{
+    "Course Code": "9110501",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Data Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesAt the end of this course, the student will know:basic concepts and processes of data informatics,principles, tools, and techniques used in data informatics projects.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudent, who passed the course statisfactorily will be able to:identify key concepts in data informatics and business analyticsdescribe basics of data mining, machine learning, big data, visualization, and predictive modelingdefine data analytics problemscarry out problem analysis and decision-making on real-life problemsuse data processing tools and techniquesapply data analysis methodsdevelop predictive modelsevaluate and improve model performance",
+    "Course Content": "This course explains the complete process cycle of data informatics domain including business understanding, data governance, data acquisition, modelling, verification, deployment and visualization subjects. Current topics such as data driven organizations, and ethical and legal issues will be also covered in the course. Real world cases will be presented throughout the course and students will get experience in data science platforms such as Python."
+}

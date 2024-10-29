@@ -1,0 +1,12 @@
+{
+    "Course Code": "9010707",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Language of Instruction": "English",
+    "Level of Study": "Masters",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesAt the end of this course, the student will:know basic concepts in formal methods and verificationbe able to use automated software verification techniquesbe able to model software systems and formulate correctness properties in logical form",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudent, who passed the course satisfactorily will be able to:model critical software systems using formal methodsuse automated verification tools and techniques both in code and design levelformulate safetly, liveness, correctness properties and assertionsknow fundamental formal verification concepts.",
+    "Course Content": "This course aims to introduce students to a crucial part of the design cycle: mathematically proving that the design satisfies desirable or required properties, referred to as formal verification. An introductory treatment of theoretical framework is accompanied with state of the art verification tools."
+}

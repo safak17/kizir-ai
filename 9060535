@@ -1,0 +1,13 @@
+{
+    "Course Code": "9060535",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Medical Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesAt the end of this course, the student will learn:common concepts in signals and systemsanalyze biological signals and interpret the analysis results",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudent, who passed the course satisfactorily will be able to:use parametric and nonparametric spectrum estimation methodsget familiar with properties of biological signals such as EEG, EMG and EKGdecompose signals into phase, amplitude and frequency dimensionsuse signal processing toolboxes effectively in Matlabimplement signal processing methods with appropriate parameterspreprocess and denoise biological signals using methods like principal component analysis and independent component analysisestimate fractal dimension of biological signalssynthesize self-similar signalsbe familiar with random signals and estimate their moments such as mean, variance, skewness and kurtosisimplement biased / unbiased second-order statistical measures of autocorrelation and cross-correlation from a given signaldesign FIR and IIR filtersapply downsampling, upsampling, decimation and interpolation operations optimallylearn the basics of Wavelet theory and Hilbert Transform and apply these on biological signals",
+    "Course Content": "This course provides main tools to interpret the biomedical signals ranging from neural and cardiac rhythms to muscular activity.It takes a probabilistic signal processing approach and introduces traditional methods of time-frequency analysis as well as more recent issues of fractals,self-similarity,cross-frequency coupling and independent component analysis.Theory of methods shall be complemented with biomedical data applications emphasizing and motivating their use in practice."
+}

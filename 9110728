@@ -1,0 +1,13 @@
+{
+    "Course Code": "9110728",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Data Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesStudents who successfully complete this course are expected to acquire the knowledge of:•              the fundamentals of data mining and analytics in games•              the basic knowledge of the player’s behavior•              the basic knowledge of the taxonomy of the visualizations in the gameplay•              the recent testbeds and development environments for game programming patternsAt the end of the course, students will be able to pursue graduate studies in data analytics in games and entertainment.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudents who successfully complete this course will understand the data analytics methods in the gaming and entertainment domain and recent research directions in the field. Also, students will become familiar with the frameworks and environments specialized for data analytics of games and entertainment-related applications.",
+    "Course Content": "This course aims to provide background information and provide an overview of contemporary data analytics uses in game development and entertainment. The lectures will cover subjects such as player profiling, approaches for analyzing player communities and their social structures, matchmaking, churn prediction and customer lifetime value estimation, analytical results communication, and visual approaches to game analytics. The course aims to balance theory and practice by having students implement all of the described methods, test them in various game environments, and study current research papers on data analytics in games and entertainment."
+}

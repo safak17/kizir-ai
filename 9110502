@@ -1,0 +1,14 @@
+{
+    "Course Code": "9110502",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Data Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Prerequisite": "Set 1:9010509,9110501",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesBy the end of the course the students are expected to acquire knowledge and ability inInitiating a data science project.Developing a data science project in an iterative and incremental way.Reviewing project work products.Specifying and managing requirements.Understanding, preparing, and evaluating data.Creating and evaluating models.Deploying project outputs.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "This course enables students to gain an understanding of a real-world data informatics project conduct and to apply learned skills in a practical context. Students will be grouped into teams to undertake an industry-aligned project and use the tools, techniques and skills acquired in the other program courses. The teams will be assigned to a client and will interact with that client to achieve objectives. Teams will meet on predetermined milestones to evaluate outcomes."
+}

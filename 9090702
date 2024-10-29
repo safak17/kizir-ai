@@ -1,0 +1,13 @@
+{
+    "Course Code": "9090702",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Multimedia Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe course aims to provide a solid background in machine learning and to enrich the theory with practical examples. The course will be one of the MUST courses for students planning to specialize in multimedia computing. This course aims to bring students with different backgrounds to the same level of theoretical information as well as give them the necessary competence in terms of implementing the theoretical concepts using high-level programming languages.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesWith this course, the students will:Learn the fundamental approaches and algorithms in machine learningLearn standard parameter estimation methodsLearn how data can be clustered and classified using standard machine learning techniquesLearn how models that result in a set of observed data can be inferred from dataLearn how the machine learning algorithms can be applied to the multimedia domainBecome proficient in Python and/or Matlab to the level that would allow the usage of these languages in research projects in multimedia informaticsLearn and apply the concept of reproducible research",
+    "Course Content": "The main objective of this course is to provide a theoretical and practical coverage of machine learning in multimedia domain. The main topics to be covered during the course are supervised learning, Bayesian Decision Theory, parametric methods, multivariate methods, dimensionality reduction, clustering, decision trees and Hidden Markov Models. The course will not only focus on providing a theoretical background to the students, but will also encourage them to implement the algorithms learned in the class and to analyze practical examples. The students will be given a term project and various assignments to implement the algorithms taught during the course. Also, reading assignments focusing on the recent research on Machine Learning will be given and discussed during the lectures."
+}

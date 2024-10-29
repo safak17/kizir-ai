@@ -1,0 +1,13 @@
+{
+    "Course Code": "9090703",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Multimedia Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThis course aims to provide knowledge on several topics related to the usage of sound for the purposes of human-to-human, human-to-machine, and machine-to- human communication. More specifically the course covers aspects of acoustics and human hearing at a theoretical level as well as practical audio signal processing applications such as spatial audio systems, audio and speech coding, text-to-speech synthesis. The course aims to balance theory and practice in that it will involve students implementing some of the described algorithms, auditory models and replicate some of the auditory effects to be explained during the lectures using high-level languages such as Python (including SciPy and NumPy) and/or Matlab.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesVia this course and by the successful completion thereof, the students will:Learn the fundamentals of linear acoustics and human hearingLearn about applications of signal processing in auditory modellingLearn about room acoustics and its application in spatial audio systemsLearn about human speech generation mechanism and its modellingApply the theory and concepts learned during the course in a real-world application via a term projectLearn and apply the concept of reproducible research",
+    "Course Content": "This course aims to provide knowledge on several topics related to the usage of sound for the purpose of human-to-human, human-to-machine, and machine-to-human communication. More specifically the course covers aspects of acoustics and human hearing at a theoretical level as well as practical audio signal processing applications such as spatial audio systems, audio and speech coding, text-to-speech synthesis. The course aims to balance theory and practice in that it will involve students implementing some of the described algorithms, auditory models and replicate some of the auditory effects to be explained during the lectures using high-level kanguages such as Python (including SciPy and NumPy) and or Matlab."
+}

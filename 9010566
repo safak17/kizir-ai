@@ -1,0 +1,12 @@
+{
+    "Course Code": "9010566",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Prof.Dr. ÜNAL ERKAN MUMCUOÐLU",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThis course aims to provide fundamental image processing theory and practice.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesIntroduction, Transform Techniques, Enhancement and Restoration, Edge Detection, Morphological Image Processing, Color Image Processing, Segmentation, Image Representation and Compression",
+    "Course Content": "Digital Signal Processing Fundamentals,Fourier Transform of Images, Image Enhancement, Edge Detection, Image Restoration, Morphological Image Processing, Image Segmentation, Representation and Description, Wavelets and Multiresolution Processing, Gabor Filters, Object Recognition."
+}

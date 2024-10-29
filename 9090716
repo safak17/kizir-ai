@@ -1,0 +1,13 @@
+{
+    "Course Code": "9090716",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Multimedia Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesStudents who successfully complete this course are expected to acquire the knowledge of:the fundamentals of game programming patternsthe basic knowledge of the architecture and performance of game programming patternsthe use cases related to game programming patternsthe recent testbeds and development environments for game programming patternsAt the end of the course, students will be able to pursue graduate studies in game programming patterns-related research areas.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudents who successfully complete this course will understand the game programming patterns and related cross-cutting concepts. Also, students will become familiar with the frameworks and environments specialized for game programming.",
+    "Course Content": "This course seeks to provide background information on a variety of game programming patterns as well as an environment for practical applications. The lectures will cover subjects such as Design Patterns, Sequencing Patterns, Behavioral Patterns, Decoupling Patterns, and Optimization Patterns. The course aims to balance theory and practice by having students implement all of the described algorithms, test them in various game environments, and study current research papers on game programming."
+}

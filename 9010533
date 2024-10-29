@@ -1,0 +1,13 @@
+{
+    "Course Code": "9010533",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Prof.Dr. YASEMÝN ÇETÝN",
+    "Offered Semester": "Fall Semesters.",
+    "Prerequisite": "Set 1:9010501",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesAt the end of this course, the student willLearn different management roles and decision typesLearn the rational decision making process and the characteristics of different management stylesUnderstand the status of DSS in Business Information SystemsApply techniques such as Linear Programing, Decision Trees, Simulation, Multiple Criteria Decision Making and Data Mining to solve simple problems by hand or using a toolLearn different types of DSS and enabling technologies: Group Support Systems, Simulation, Expert Systems and Data Mining&Warehousing, Knowledge Management, Business Performance ManagementUse some DSS enabling software packages with some hands-on capabilityUnderstand DSS development methodologies and future directions",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudent, who passed the course satisfactorily will be able to:Identify different management roles and decision typesDescribe characteristics of different management stylesRecite stages of Simon Decision Making ProcessDistingush basic concepts of linear programming, multi criteria decision making, analytic hierarchy process, simulation.Construct influence diagrams for decisional problemsConstruct decision treesSolve decisional problems by applying DSS techniques and discuss resultsCompute some DSS enabling software packagesIdentify, and compare&contrast different types of DSSs and tools, such as Group Support Systems, Simulation, Expert Systems and Data Mining&Warehousing, Knowledge Management, Business Performance ManagementExplain DSS development methodologiesEvaluate future trends of DSS",
+    "Course Content": "Individual and organizational decision making.Normative and behavioral models of decision making. Utility functions. Basic concepts of DSS.Simulation for decision support, Data collection, database management,  data mining,Business Intelligence,EIS, ES, Intelligent DSS. Integration of MSS. Basics of modeling, model building blocks. Implementation issues."
+}

@@ -1,0 +1,13 @@
+{
+    "Course Code": "9080717",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Bioinformatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesStudents who successfully completes the course will:Understand the emerging roles and responsibilities of bioinformaticians in clinicOverview the general principles of genomics research, human genome sequence and variationsLearn the genetic models of inheritance and diseases.Review the current software/tools/platforms, and relevant genomic/bioinformatics resources for the analysis of the genomic dataGain further experience on computer programming and statistical skills for the analysis of large data setsLearn strategies to produce accurate variant lists for further validation, and clinical interpretation",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudent, who passed the course satisfactorily will be able to:select right molecular analysis for different cases.outline the genetic model of inheritanceproduce accurate variant lists for further validation, and clinical interpretationSuggest appropriate bioinformatics pipelines, standard operating procedures and strategies for different groups of diseases, clinical cases or research goals.",
+    "Course Content": "Translation of bioinformatics application into healthcare is leading the predictive medicine and allow personalized approaches in both diagnosis and treatment. Thus there is an emerging need for bioinformatics who can analyze and interpret results of large genomics data sets and manage investigation of disease related variations and genes. Through formal lectures, students will learn the fundamentals of clinical bioinformatics, review the current software/tools/platforms, and relevant genomic/bioinformatics resources for the analysis of the genomics data. Critical reading assignments and discussion of case studies will allow students to understand current strategies, bioinformatics pipelines, and standard procedures. The program students who have completed the course will be informed about the current applications of bioinformatics in medical genetics and trained in clinical uses of bioinformatics."
+}

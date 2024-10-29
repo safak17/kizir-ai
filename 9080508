@@ -1,0 +1,13 @@
+{
+    "Course Code": "9080508",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Bioinformatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Prof.Dr. RENGÜL ATALAY",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe course is interdisciplinary level elective course to be taken by the students from both biological and computational sciences. The aim is to provide an introduction to the recent next-generation nucleic acid sequencing (NGS) data analysis methods and cope with rapidly growing NGS data on various health topics to Masters and Ph.D. students for their future thesis projects.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesUpon completion of the course, students:learn the most recent nucleotide sequencing laboratory technologies  and define, explain, and correctly use terms and concepts used to describe novel NGS technologyget familiar with best-practice methods and pipelines for NGS data analysis in detail.understand data structures and algorithms for the NGS technologies and applications including variant detection, ChIP-seq, RNA-seq, de novo assembly, and targeted sequencing.apply computational frameworks and toolkits with raw data.able to use SAMTools, BedTools, BWA, TopHat/Cufflinks, GATK, QIIME, R, and Galaxy (term project)",
+    "Course Content": "Next Generation Sequence Analysis and Informatics course provides an introduction to methods for next-generation nucleic acid sequencing (NGS) data analysis. Students will learn most recent high-thoughput sequencing laboratory technologies and informatics tools for data analyses. Up to date best-practice methods and road maps will be discussed in detail. Data structures and algorithms for the NGS technologies and applications including variant detection, CHIP-seq, RNA-seq, de novo assembly, and targeted sequencing will be covered. Computational frameworks and toolkits such as SAMTools, BedTools, BWA, TopHat/Cufflinks, GATK, QIIME, R, and Galaxy will be exploited using sample data. The coursework involves case studies, one term project, homework assignments and exams."
+}

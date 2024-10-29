@@ -1,0 +1,13 @@
+{
+    "Course Code": "9110710",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Data Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "This course presents the fundamentals of data engineering, which refers to the development and deployment of systems as well as processes for turning raw data into useful information for various purposes such as advanced analysis and presentation. By combining technology and domain knowledge, the topics are handled based on the data engineering lifecycle, which consists of data generation, storage, ingestion, transformation, and serving. These lifecycle stages are also supplemented by cross-cutting concerns, including subjects such as data management, data architecure, and DataOps. The course focuses on the core principles as opposed to specific tools. It also presents business cases from the industry, and highlights current trends in this dynamically evolving field."
+}

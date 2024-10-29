@@ -1,0 +1,13 @@
+{
+    "Course Code": "9090701",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Multimedia Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesVia this course and by the successful completion thereof, the students will:Learn the fundamental methods to process various unidimensional multimedia signals such as speech, audio, and biometric signalsLearn standard optimum and adaptive filtering methodsLearn about how linear prediction can be usedLearn standard spectrum estimation methods and time-frequency representationsBecome proficient in Python and/or Matlab to the level that would allow the usage of these languages in research projects in multimedia informaticsLearn and apply the concept of reproducible research",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesBy the successful completion of this course, the students will be able:to apply standard signal processing techniques in multimedia signal processing problemsto formulate multimedia signal processing related problems appropriatelyto understand the capabilities and limitations of applying signal processing techniques in multimedia computing problems",
+    "Course Content": "This course aims to provide a practical coverage of a fundamental topic relevant to multimedia computing: multimedia signal processing. Topics related to signal processing with applications in multimedia computing will be taught. These are fundamentals of signals and systems, z-transforms, frequency analysis of signals and systems, concepts of stability and causality, sampling theorem, design of linear-time invariant systems, optimal filters, linear production, adaptive filters, spectrum estimation, and time-frequency representations.The course has a good balance of theoretical and practical aspects.Theoretical aspects thought during the course will be complemented with practical examples using a high-level programming language such as Python and/or Matlab. The course will also include a term project that will involve the students developing a solution to an actual multimedia signal processing problem with the theoretical and practical tools that they learned during the course."
+}

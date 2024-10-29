@@ -1,0 +1,12 @@
+{
+    "Course Code": "9010543",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "Theoretical and modelling issues in information retrieval: automatic indexing; techniques for searching and ranking output; retrieval output evaluation; classical and user-oriented approaches to automatic classification; relevance feedback; markov models; distributed retrieval; document filtering; cross-language retrieval; the role of decision models and machine learning, in particular learning by observation and learning by induction, in the above processes."
+}

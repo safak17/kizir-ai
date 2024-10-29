@@ -1,0 +1,13 @@
+{
+    "Course Code": "9060701",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Medical Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesUpon completion of the course, students should have:knowledge and hands-on practice about communication protocols, messaging infrastructures and interoperability implementations in telehealth applications.understanding of health technology domains, technical system structures, stakeholders, end-users and infrastructure outcomes due to requirements.knowledge of international health interoperability standards, technical frameworks, profiles, actors and transactions based on health domain requirements and user scenarios.skill to relate product/UI/UX design requirements with technical requirements and interoperability and standard compatibility restrictions.the ability to design and implement telehealth system components that can be integrated to form an international healthcare standard compliant product solution for the end-users.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudents, who are successful in the course will be able to:understand interpret IHE technical framework supplements, user scenarios, actors' relations, data models and transaction implementations for healthcare domains.understand and interpret the infrastructure requirements for interoperability between several healthcare system/product compoments.analyze technical requirements based on compatibility and regulation restrictions and relate these requirements to product/UI/UX design in addition to target domain&segmentation&persona.work in multi-disiplinary groups to design and implement integrated end-user products/solutions/system components.",
+    "Course Content": "Sorry no data is found for the course objective."
+}

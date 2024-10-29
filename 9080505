@@ -1,0 +1,13 @@
+{
+    "Course Code": "9080505",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Bioinformatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesUpon completion of the course, students should havea solid understanding and appreciation of the convergently evolved regulatory motifs in biological networks,gained the ability to apply a holistic approach to biological phenomena and elucidate emergent behavior of complex biological systems,mastered basic graph-theoretical methods and network analysis techniques,the skill to use state-of-the-art exchange protocols and visualization methods for biological network and pathway information.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudents, who are successful in the course will be able to:implement basic graph theoretic algorithms such as MST, shortest paths, maximal connected components,create code and statistical tools that identify frequent and signifcant motifs in biological networks,preprocess experimental data (e.g. microarray, CHiP-seq, MS-MS) and convert it into a putative network (or integrate these with an existing network),measure and analyze the sensitivity of a system to input (i.e. assess the robustness of a system),perform kinetics calculations to find the behaviour (time response, steady state) of a biochemical dynamical system,visualize large networks and analyze the degree distribution to find out scaling and clustering propertires of the network.",
+    "Course Content": "Systems biology aims to study biological phenomena through the modeling of interactions and general system behavior rather than reducing to the individual parts. This course will cover the basic ideas, tools and contributions of the systems biology and biological network analysis. The subjects to be covered include: dynamics of biological networks; common motifs; network analysis, modeling and visualization methods; applications in transcription, protein interaction, metabolic and co-expression networks. The coursework involves in-class discussion of several case studies, a term project, homework assignments and exams."
+}

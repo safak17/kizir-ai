@@ -1,0 +1,13 @@
+{
+    "Course Code": "9040561",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Informatics Online",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "This course covers simulation modeling in dynamic and stochastic systems, relevant fundamentals of statistical analysis, computer simulation and other application specifics. Discrete event simulation is the main emphasis, however, continuous and combined models will also be introduced. Input data analysis, model verification and validation, experimentation and output analysis will be introduced. Computer simulation will be taught in SIMAN programming environment."
+}

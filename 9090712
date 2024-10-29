@@ -1,0 +1,13 @@
+{
+    "Course Code": "9090712",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Multimedia Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesVia this course, the students will have a grasp on the ML system development pipeline and by the successful completion thereof, the students will be able to:compare and contrast ML system design with traditional software designcreate and manage training dataseteffectively develop and train modelsscale-up training for large modelsevaluate and calibrate models and debug ML systemstrack experiments and handle model versioningcompress and optimize the models and deploy them on various platforms",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "The course covers several aspects of designing reliable and scalable machine learning systems for real-world deployment. It deals with development of production quality models and introduces the machine learning pipeline, concepts on machine learning system design and data engineering. It provides know-how on model development, and how to scale up the training for large models as well as evaluation, calibration and debugging of these models. Generation of reproducible models via experiment tracking tools and model versioning is also covered. Hardware platforms and frameworks for deployment are introduced, followed by basic deployment concepts, containerized deployment and testing."
+}

@@ -1,0 +1,12 @@
+{
+    "Course Code": "9010518",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesBy the end of the course the students are expected to acquire knowledge aboutagile manifesto values, principles and how to interpret these values and principlesagile methods (Scrum, XP, KanBan, TDD) and the associated agile practices for higher software product quality, productivity, employee and customer satisfaction, and timely release of products to market.By the end of the course the students will gain the ability toimplement the agile methods and practices based on specific purposes in software organisationsinitiate and manage an agility improvement program in a software development organisation",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "This course aims at teaching the values and principles of agile software development teams and the agile practices for successful delivery of software products. From this perspective, the course covers a wide range of ASD methods and practices in relation to different areas and specific processes of software development. The primary ASD methods that will be covered in this course will include Scrum, Extreme Programming (XP), Test Driven Development (TDD), KanBan, and Disciplined Agile Delivery (DAD). The course not only covers the Agile Methods and Practices, but also introduces how to get started implementing Agile in software projects."
+}

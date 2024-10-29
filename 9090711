@@ -1,0 +1,14 @@
+{
+    "Course Code": "9090711",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Multimedia Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Prerequisite": "Set 1:9090727Set 2:5670543Set 3:5710501",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe course will cover various concepts related to the understanding and processing of different types of multimedia sequence models. The course starts with an overview of sequence models, RNNs and continues with details on training RNNs. By introducing different sequence modelling problems, recurrent architectural models and variants of gated recurrent units, the course covers all fundamental concepts related to sequence learning in intelligent multimedia systems. In addition, the course covers the recurrent and nonrecurrent models of attention in various multimedia type signals such as vision and/or sound.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesVia this course and by the successful completion thereof, the students will:Learn fundamental sequence modelling problemsLearn details and use of Recurrent Neural Networks in sequence modelsLearn short and long term dependency concepts in sequence problemsLearn variants of gated recurrent architectures.Learn the concept of recurrent and nonrecurrent models of attention in multimedia signalsLearn combinations of RNN based sequence models with conventional machine learning models",
+    "Course Content": "The course will cover various concepts related to understanding and processing different types of multimedia sequence models. The course starts with an overview of sequence models, RNNs and continues with details on training RNNs. By introducing different sequence modelling problems, recurrent architectural models and variants of gated units the course covers all fundamental concepts related to sequence learning in intelligent multimedia systems. In addition the course covers the recurrent and nonrecurrent models of attention in various multimedia type signals such as vision and/or sound."
+}

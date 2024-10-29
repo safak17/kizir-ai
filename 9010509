@@ -1,0 +1,12 @@
+{
+    "Course Code": "9010509",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesAt the end of this course, the student will know:basic concepts and processes of data science,principles, tools, and techniques used in data science projects.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudent, who passed the course statisfactorily will be able to:identify key concepts in data science and business analyticsdescribe basics of data mining, machine learning, big data, visualization, and predictive modelingdefine data science problemscarry out problem analysis and decision-making on real-life problemsuse data processing tools and techniquesapply data analysis methodsdevelop predictive modelsevaluate and improve model performance",
+    "Course Content": "This course covers data science related topics incorporating both the technology and business perspectives, while also highlighting various applications. The subjects covered in the course include basic data science concepts, probability and statistics review, understanding data, data acquisiton and preprocessing, practical machine learning, data storytelling, current topics in data science, data driven organizations, and ethical and legal issues. Real world cases will be presented throughout the course and students will get experience in data science platforms such as R and Python."
+}

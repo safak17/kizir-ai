@@ -1,0 +1,13 @@
+{
+    "Course Code": "9080511",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Bioinformatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe objectives of this course are;to give students an introduction to the basic practical techniques of bioinformatics.to make students familliar with relevant databases and tools available online.to provide knowledge about application of bioinformatics and biological databases to problem solving in real research problems.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesBy the end of the course the students will be able to use bioinformatics tools and be able to apply this knowledge and experience to their research.",
+    "Course Content": "This course aims to introduce frequently used bioinformatics tools to non-bioinformaticians and will discuss the basic concepts of bioinformatics. Recent developments in biological sciences have produced a wealth of experimental data of sequences and three-dimensional structures of biological macromolecules. With the advances of computer and informational sciences, these data and tools to analyse the data is available from a variety of public sources. The main focus of the course will be to teach how to access, handle and interpret this rapidly expanding amount of biological information at an introduction level. Practical section of the course will emphasize on how to use the computer and bioinformatics applications to aid  in biological research."
+}

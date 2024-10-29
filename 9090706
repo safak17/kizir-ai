@@ -1,0 +1,13 @@
+{
+    "Course Code": "9090706",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Multimedia Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesStudents who successfully complete this course are expected to acquire the knowledge of:the fundamentals of reinforcement learningMarkov Decision Processesmodel-free predictionmodel-free controlvalue function approximationpolicy gradient methodsexploration and exploitationAt the end of the course, students will be able to pursue graduate studies in reinforcement learning related research areas.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning Outcomes1. Students will be familiar with reinforcement learning concepts,2. Students will gain ability to apply recent techniques in reinforcement learning to different games,3. Students will be able to implement and modify the algorithms in reinforcement learning,4. Students will be able to learn the current trends in reinforcement learning, read related research papers and have a thorough understanding of the recent methodologies,5. Students will gain the ability to creatively apply their current knowledge to produce new and original thoughts, ideas, processes in the field of reinforcement learning.",
+    "Course Content": "This course aims to give background knowledge on several topics related to reinforcement learning and provide an environment for practical applications. Multi-armed Bandits, Monte Carlo methods, Markov Decision Processes, Dynamic Programming and Temporal-Difference Learning are some of the core topics that will be covered through lectures. The course aims to balance theory and practice in that it will involve students implementing all of the described algorithms, testing those algorithms in different game environments, and reading recent research papers on the reinforcement learning field."
+}

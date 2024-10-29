@@ -1,0 +1,13 @@
+{
+    "Course Code": "9090727",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Multimedia Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesVia this course and by the successful completion thereof, the students will:Learn the fundamentals of deep learningLearn about applications of deep learning in computer visionLearn about convolutional neural networksLearn about generative adversial networksApply the theory to practice during lab sessions on GPU cloudApply the theory and concepts learned during the course in a real-world application via a term project",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "This course aims to give background knowledge on several topics related to deep learning and provide a laboratory environment for practical applications. Backpropagation convolutional neural networks, generative adversarial networks, energy-based learning and optimization techniques are some of the core topics that will be covered through the lectures. The course aims to balance theory and practice in that it will involve students implementing all of the described algorithms, testing those algorithms under several domains and accessing GPU clouds during laboratory sessions to program examples using Torch."
+}

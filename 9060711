@@ -1,0 +1,13 @@
+{
+    "Course Code": "9060711",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Medical Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Prof.Dr. ÜNAL ERKAN MUMCUOÐLU",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesUpon completion of the course, students should have:knowledge in the advanced level for the following medical image analysis concepts: nonlinear image enhancement, model-based image segmentation, active shape model, organ and lesion segmentation, lesion detection, computer-aided diagnosis, multi-modal image registration/fusion, content-based image retrieval, augmented reality in surgical navigation, optical flow and super-resolution.hands on practice and experience in implementing the methods studied using MATLAB scientific software.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesBy the end of the course, the students will be able to:understand and write as an algorithm some of the advanced level nonlinear image enhancement and model-based image segmentation methodsimplement some of the organ/lesion segmentation and lesion detection methods using MATLAB scientific software.Understand some of the methods in computer-aided diagnosis, multi-modal image registration/fusion, content-based image retrieval, augmented reality in surgical navigation, optical flow and super-resolution.",
+    "Course Content": "Advanced techniques in medical image analysis will be presented.Topics include computer-aided diagnosis,content-based image retrieval,statistical modeling of medical images, multi modal image analysis (fusion) and segmentation."
+}

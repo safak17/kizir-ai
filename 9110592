@@ -1,0 +1,13 @@
+{
+    "Course Code": "9110592",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Data Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesAt the end of this course, the student will know:Fundamental mathematics concepts used in data informatics studies,Basic calculus concepts such as functions, limits, derivatives and integration,Scalars, vectors, matrices and relevant concepts,Basic skills of using linear algebra methods,Basic principles, tools and techniques used to formulate and solve optimization problems relevant to data informatics domain.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesBy the successful completion of the course the students will be able to:Define and use basic calculus concepts such as functions, limits, derivatives and integration,Describe the basic vectors, matrices and core linear algebra concepts,Use linear algebra in data informatics studies,Formulate optimization problems,Apply gradient descent based approaches for optimization.",
+    "Course Content": "This course reviews the fundamental mathematics knowledge required to carry out data informatics related studies such as logic, relations, functions, vectors and matrices, operations with vectors and matrices, linear independence, linear transformations, eigenvalues and eigenvectors, optimization."
+}

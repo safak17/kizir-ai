@@ -1,0 +1,12 @@
+{
+    "Course Code": "9010528",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesBy the end of the course the students willknow principles of software architectureunderstand the role of software architecture in a software engineering projectknow architectural drivers, architecturally significant requirements and relevant tacticsknow software architectural patterns and stylesknow and apply software architecture design tecniquesknow and use software architecture modeling notationsanalyze software architecturesimplement software architectures",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudent, who passed the course satisfactorily will have the knowledge and skills todefine the key terms and concepts related to software architectureunderstand the role of software architecture in the software engineering activitiesunderstand and reason about the architecture of a software systemapply analysis techniques at the architectural levelspecify architecturally significant requirements properlydetermine tactics to satisfy architecturally significant requirementsapply architectural patterns to create architectural alternatives and choose the best alternativebe familiar with modeling notations used for capturing the design decisions that constitute an architecturedocument the architecture of a software systemconvert architectural design decisions to implementationapply architecture-centric development within the context of specific domains",
+    "Course Content": "Fundamental concepts of software architecture. The role of architecture in software engineering. Designing applications from an architecture-centric perspective. Architecture design techniques and approaches. Architectural styles and patterns. Implementation and deployment. Software architecture modeling and architecture documentation."
+}

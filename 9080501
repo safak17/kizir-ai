@@ -1,0 +1,13 @@
+{
+    "Course Code": "9080501",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Bioinformatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe main objective of the course is to provide the student with a solid foundation for conducting further research in bioinformatics. By the end of the course, the students will have learned:the bioinformatics terminology,main bioinformatics problems,and the key methods and tools used in bioinformatics",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesAt the end of this course, students will be able to:Understandmain computational problems in life sciences.Understandthe main terminology used in bioinformatics.Applystatistical analyses on results of algorithms.Understandkey methods and tools used in bioinformatics.Designandimplementa computational solution to a molecular biology problem",
+    "Course Content": "This course will provide an introduction to bioinformatics. The computational techniques for mining the large amount of information produced by biological experiments such as genome sequencing, microarray technology, and other high-throughput experimental methods will be introduced. The main emphasis of the course is to provide an overview of the area and describe solutions to fundamental problems of bioinformatics such as DNA and protein sequence alignment, protein structural alignment, protein/RNA structure prediction, phylogenetic tree construction, microarray data analysis, and analysis of gene/protein networks."
+}

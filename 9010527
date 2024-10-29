@@ -1,0 +1,12 @@
+{
+    "Course Code": "9010527",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Assoc.Prof.Dr. AYSU BETÝN CAN",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesAt the end of this course, the student will;know basic principles, theory and concepts of software verificationapply inspection, formal technical review to deliverables of software development activitiesapply formal methods of software verification to analyze imperative programsapply and use automated software verification tools to object oriented systems.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesAt the end of this course, the student will be able to:name, define and describe inspection and formal technical review process and conceptsexplain and apply design by contract and traditional formal systems for program correctness and analyze program code.drive dynamic symbolic execution for a procedure of a programbe a part of inspection and formal technical review team and generate reportsuse automated software verification tools to object oriented systems.interpret temporal logic for concurrent systemsdrive finite state models of concurrent systems for model checking",
+    "Course Content": "The course introduces software verification processes that determine whether deliverables of a given activity conform to the requirements of that activity. The discussion includes review, inspection, walkthrough processes as well as independent verification. Issues related to the installation of these processes within an organization and to the impact of software quality are also investigated. Several examples are studied and verification meetings are organized to apply the techniques introduced."
+}

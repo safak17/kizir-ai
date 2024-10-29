@@ -1,0 +1,13 @@
+{
+    "Course Code": "9110722",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Data Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesBy the end of the course the students will know geographic data management and spatial point processes. They will also know the basics of the current topics in the spatial and spatio-temporal data mining field.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudents who successfully complete this course will:• Understand the differences between raster and vector data,• Store and query geographical data using PostgreSQL and PostGIS,• Visualize and analyze data using QGIS,• Understand random point process and spatial autocorrelation,• Understand various algorithms on spatio-temporal analysis including clustering and regression.",
+    "Course Content": "This course introduces theories and techniques to store, visualize, and analyze spatio-temporal data. Spatio-temporal data are being collected in large quantities, especially in an urban environment where the location of moving objects (e.g. buses) could be traced with GPS sensors, or the situation in an environment could be monitored using CCTV cameras. Students will experience various software to analyze spatio-temporal data, with an emphasis on application to real-world problems. The course covers a range of topics, including exploratory spatio-temporal data analysis, visualization, regression, clustering, and anomaly detection. Lectures are supported by programming assignments, mainly of which will be implemented in Python. The course is suitable for graduate students who aim to advance their theoretical and practical skills in Geographic Information Systems (GIS), Smart Cities, and other related subjects."
+}

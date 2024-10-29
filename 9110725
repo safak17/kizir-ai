@@ -1,0 +1,13 @@
+{
+    "Course Code": "9110725",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Data Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "This course explores advanced concepts and applications of transformers and attention-based models in various domains, focusing particularly on natural language processing (NLP), time series and computer vision as well as unified vision and language understanding. It covers topics such as attention, vanilla transformer, large language models (LLM), LLM frameworks, NLP applications with LLM, Unified Vision-Language Understanding and Multi-modal Transformers, Distillation and data-efficient transformers, explainability, flash attention, in-context learning, prompting, and ethical concerns. The course aims to give both theoretical and practical aspects of the topics and present real-world use cases."
+}

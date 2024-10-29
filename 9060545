@@ -1,0 +1,13 @@
+{
+    "Course Code": "9060545",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Medical Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesUpon completion of the course, students should have:Working knowledge of a modern, multi-paradigm, memory-managed programming languagea good grasp of object oriented programming conceptsan understanding of algorithmic complexity and performance evaluationthe skill to create and adapt recursive and iterative algorithms to solve problemsknowledge of the internal details and performance characteristics of fundamental data structures, i.e. arrays, dictionaries, linked lists, trees and graphsknowledge of application oriented data structures like search trees, queues, stacks, and priority queues; their strengths and trade-offsthe ability to design competitive software solutions to biomedical informatics problems",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudents, who are successful in the course will be able to:use both object oriented and functional programming constructs to design maintainable, and resilient software composed of clearly encapsulated, and loosely coupled objects.analyze the runtime performance (in terms of time, memory and I/O) of their software solutions and alternatives.Be able to design performant algorithms for common information processing tasks, recursive or otherwisechoose, based on the problem, or implement the most suitable data structures, or combinations thereof",
+    "Course Content": "Basic Object Oriented Principles will be discussed using a modern programming language i.e. Java. Theoretical approaches will be developed to implement Data Structures which is very important in algorithm development. The core of the class will be depend on using object oriented principles to implement algorithms in Data Structures using Java. Although some reading is required, practice is more important in learning any programming language."
+}

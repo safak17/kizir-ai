@@ -1,0 +1,13 @@
+{
+    "Course Code": "9060533",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Medical Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Assoc.Prof.Dr. TOLGA ESAT ÖZKURT",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesAt the end of this course, the student will learn:electroencephalography (EEG) and magnetoencephalography (MEG)  data analysisthe essential tools and principles to interpret brain data with high temporal resolutionthe necessary background for further research of advanced clinical and cognitive neuroimaging",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudent, who passed the course satisfactorily will be able to:formulate the relation between brain sources and EEG/MEG dataimplement routines for numerical programminguse data analysis toolboxes to manipulate brain signalslocate the brain sources on MR imgages fexecute brain connectivity analysis techniquesrun statistical tools for brain oscillatory dataproject time series data into the dimensions of amplitude - frequency - phase",
+    "Course Content": "This course introduces the tools of Electroencephalography (EEG) and magnetoencephalography (MEG) data analysis to capture brain dynamics with fast temporal sampling. It will provide the relation between neuronal activity and electro-magnetic mapping, necessary physics of measured sensor data, brain source localization and identification. Various preprocessing tools, time-frequency analysis, brain source reconstruction methods will also be covered. Theory will be complemented by hands-on sessions in which students will be tutored through the complete analysis of EEG and MEG dataset with popular free online data analysis packages. The functional image of the brain will be studied with simulated and real EEg and MEG data projected on MR images."
+}

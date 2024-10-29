@@ -1,0 +1,13 @@
+{
+    "Course Code": "9090704",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Multimedia Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "This course aims to provide a coverage of fundamental topics relevant for human motion capture: human motion modelling and tracking. During the first half of the course topics related to 2D and 3D tracking, optical flow, articulated models, action recognition and video tracking will be covered. During the second half of the course, fundamental modelling and animation techniques will be presented. These include markerless movement analysis, optimization of human movement, biomechanics, applications of biomechanics, modeling and animation. Every theoretical aspect taught during the course will be complemented with a practical example using motion capture and animation tools such as MakeHuman, Autodesk Motion Builder and Blender. The course will also include a term project that will enable the students to merge the theoretical background with the practical tools."
+}

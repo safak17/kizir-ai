@@ -1,0 +1,12 @@
+{
+    "Course Code": "9010584",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesBy the end of the course the students will know how to implement text mining applications using deep learning models and how to deploy them effectively. Students will gain hands-on experience in different natural language processing (NLP) tasks.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesBy the end of the course the students willUnderstand basic concepts, application areas in NLP and evaluation strategiesGain hands-on experience on implementing deep learning models for NLP tasksLearn and apply the fundamental deep learning architectural solutionsLearn how to measure model performance and specific methods to improve performanceLearn cutting-edge solutions designed specifically for NLP and apply them to real-life problems effectivelyLearn how to deploy a deep network architecture for production",
+    "Course Content": "This course aims to give background knowledge on several related to text analytics using deep learning. Natural language processing (NLP) concepts and NLP applications, deep learning methods for NLP, evaluation techniques, word embedding, Long-Short-Term Memory (LSTM) models, transformer models are some of the core concepts that will be covered through the lectures. The course will introduce both theoretical and practical skills in the domain. In addition, other application areas using the models initially proposed for NLP tasks will also be taught. At the end of the course, students will be familiar with cutting-edge deep networks for NLP."
+}

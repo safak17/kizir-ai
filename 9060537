@@ -1,0 +1,13 @@
+{
+    "Course Code": "9060537",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Medical Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Assoc.Prof.Dr. TOLGA ESAT ÖZKURT",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesAt the end of this course, the student will learn:basic artificial neural network structureshow to apply neural networks for claasification and clustering of biological data",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudent, who passed the course satisfactorily will be able to:design neural network modelsimplement supervised and unsupervised machine learning techniques",
+    "Course Content": "The course introduces neural networks mainly to train features from biological signals in order to classify patterns,construct models,predict outcomes and make decision.Fundamental supervised and unsupervised neural network algorithms will be introduced and they will be applied on biological signals such as fMRI,EEG,MEG,EOG and ECG.Recent advances in the common space of artifical neural networks and biomedical signal processing will be covered during the course."
+}

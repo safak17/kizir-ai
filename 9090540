@@ -1,0 +1,13 @@
+{
+    "Course Code": "9090540",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Multimedia Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "3D sensor outputs, 3D data structures, 3D data visualization, modeling of 3D data, 3D surface models (mesh and spline models), preprocessing of 3D data, 3D registration, 3D feature extraction, 3D feature descriptors, 3D object detection and recognition."
+}

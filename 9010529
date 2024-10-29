@@ -1,0 +1,12 @@
+{
+    "Course Code": "9010529",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Prof.Dr. ONUR DEMÝRÖRS",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesBy the end of this course the students will know necessary skills and tools to manage software projects and prepare software project management plan, and students will be able to demonstrate their knowledge through a project management plan prepared as a group project.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudents who passed the course satisfactorily will gain detailed knowledge, and will be able to produce related outputs, about:Project Management BasicsProject Management Performance DomainsStakeholder Performance DomainTeam Performance DomainDevelopment Approach and Software Life Cycle DomainPlanning Performance DomainDelivery Performance DomainMeasurement Performance DomainUncertainity Performance DomainSoftware Project Management StandardsIEEE Standard for Software Project Management PlansProcess Tailoring for Project ManagementCommonly Used Models, Methods and Artifacts in Software Project Management",
+    "Course Content": "This course introduces the issues and basic methods used in managing software development projects and presents timely topics and new developments in software project management. Topics include software project planning, software measurement, software project visibility and control, peopleware and a brief introduction to applicable software engineering research methods."
+}

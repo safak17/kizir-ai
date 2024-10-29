@@ -1,0 +1,13 @@
+{
+    "Course Code": "9080500",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Bioinformatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe course objective is to provide first knowledge and basic skill of programming with Python.Introduction to programming concepts using PythonUnderstanding the data types and structures.Writing programs by using Python.Solving problems with scientific computations in Python.Debugging programs",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesThe course objective is to provide first knowledge and basic skill of programming with Python.·       Introduction to programming concepts using Python·       Understanding the data types and structures.·       Writing programs by using Python.·       Solving problems with scientific computations in Python.·       Debugging programs",
+    "Course Content": "The course is an introduction to scientific computation and computer programming for graduate students with no prior programming background. Students will learn how to solve scientific problems with programming, how to write a complete program that gets inputs, perform computations and gives outputs by using loops, functions, and different data types. The course covers scientific problems from different areas to be solved with Python programs, which is a popular, general-purpose, open-source language and widely used in several areas of informatics in both industry and research fields."
+}

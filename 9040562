@@ -1,0 +1,13 @@
+{
+    "Course Code": "9040562",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Informatics Online",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "Introduction to optimization problems, problem formulation, mathematical preliminaries, convex analysis, unconstrained minimization, one dimensional search techniques, methods of steepest descent, Newton and quasi-Newton and conjugate directions, constrained minimization and Kuhn-Tucker conditions, linear programming, penalty function method, feasible direction techniques, evolutionary optimization, genetic algorithms."
+}

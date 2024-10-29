@@ -1,0 +1,13 @@
+{
+    "Course Code": "9090513",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Multimedia Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesVia this course and by the successful completion thereof, the students will:Learn the fundamental algorithms that are used in interactive systems such as games, AR, VR, and MR applicationsUnderstand the proper use of variants of different algorithms as well as their interactionsImprove their algorithm development skills without getting hindered by lower level programming languages.Develop an interactive application using some of the algorithms taught during the course.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "A practical understanding of algorithms is necessary to develop interactive systems such as games, virtual/augmented/mixed reality and other interactive applications. This course aims to teach algorithms relevant in the context of designing interactive systems. The topics to be covered include random number generation, noise generation, procedural content generation, tournament modelling, game trees, path finding, group movement modelling, decision making and modelling uncertainty. Networking related topics will also be covered. The course is predominantly practical where the algorithms and their use will be described and implementation of major algorithms will be demonstrated with collaborative coding tools in class using Python. The assessment will be via programming assignments and a term project."
+}

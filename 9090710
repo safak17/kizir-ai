@@ -1,0 +1,13 @@
+{
+    "Course Code": "9090710",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Multimedia Informatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "This course aims to present the fundamentals of outdoor virtual environments in computer games and simulation applications. Outdoor virtual environments cover terrain, geography, vegetation, sky, sun, moon, rain, snow, seasons, etc. Besides these natural phenomena, life layer entities will also be mentioned during the course. Good knowledge of these components helps game developers to design and create better titles throughout their professional life. A practical knowledge of programming language (C++, C# or Java) is a prerequisite for this course."
+}

@@ -1,0 +1,13 @@
+{
+    "Course Code": "9080503",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Bioinformatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Assoc.Prof.Dr. NURCAN TUNÇBAÐ",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesAt the end of this course, the student will:Learn basic information on database concepts, relational algebra and entity-relationship diagrams.Learn using SQL to construct a database from scratch and writing queries to retrieve data.Have the skill to find biological information from available databases, to process these data and to use available tools to visualize and to analyze the data.Have the skill to integrate data from multiple sources.Improve her/his writing and presentation skills.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudent, who passed the course will satisfactorily be able to:Understand database systems concepts and possess the knowledge about how to use available biological databases and data analysis tools efficiently.Integrate data from several databases using available tools.Construct a new database using the data they have retrieved.Utilize Structured Query Language (SQL) to construct a relational database, to retrieve data and update a relational database.",
+    "Course Content": "This course provides an in-depth review of the publicly available software tools and biological databases. Different types of biological data will be introduced and techniques for organization of biological data will be discussed. Also, the course will cover extensive use of web- based bioinformatics environments for investigation and analysis of biological data."
+}

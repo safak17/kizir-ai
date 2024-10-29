@@ -1,0 +1,13 @@
+{
+    "Course Code": "9080504",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Bioinformatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Assist.Prof.Dr AYBAR CAN ACAR",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe objectives of the course are:To expose students to the fundamentals of statistical and probabilistic techniques used in bioinformatics.Statistical issues of biological dataParticulars of common bioinformatics analysesPeculiarities of high-throughput experimental dataTo enable them to apply these techniques on a computational platform",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesBy the end of the course, students should be able to:Model biological experimental data using probabilistic distirbutionsHave a working knowledge of the R and Python environmentsBe able to design statistically sound high-throughput experimentsCluster, visualize, and summarize large amounts of, and highly multidimensional, biodataDevise accurate regression models for variables of interest, given this type of biodata",
+    "Course Content": "This course will introduce statistical modeling and inference techniques applied to biological problems. The course will cover standard statistical methods, such as multiple regression and principle component analysis, and more recent statistical techniques, such as maximum likelihood methods. Among the techniques covered will be Monte-Carlo-Markov chains using the Metropolis-Hastings algorithm and Gibbs sampling. In addition, the course will cover the use of statistical techniques such as Hidden Markov Models to model family of sequence and structures. Kernel methods and Support Vector Machines for computational biology will also be covered."
+}

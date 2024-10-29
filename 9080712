@@ -1,0 +1,13 @@
+{
+    "Course Code": "9080712",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Bioinformatics",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe course objective is to learn the fundamentals of machine learning and how to use these techniques to build computational biology applications in python.With this course you will learn how to:1. Describe various machine learning models for computational biology applications.2. Define a machine learning based application for the Bioinformatics domain.3. Design and develop a machine learning model for the Bioinformatics domain4. Calculate the performance of the developed machine learning-based method.5. Describe a current area of research in machine learning.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesUpon completion of this course the student will be able to:1. Build machine learning models in python using popular machine learning libraries such as pandas, NumPy and scikit-learn.2. Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression.3. Build and train unsupervised machine learning models such as dimension reduction and clustering.",
+    "Course Content": "Recent advances on technology, molecular biology and high-throughput biological experiments result in data accumulation at a large scale. These data have been provided in different platforms and come from different laboratories therefore, there is a need for compilation and comprehensive analysis. The main focus of the course will be to understand the principal concepts of algorithms, mining methods and database management systems used in analyzing, clustering and storing these data from the computer science perspective for bioinformatics students. Programming assignments and presentations of major bioinformatics algorithms will emphasize on understanding and implementation of bioinformatics applications to aid in biological research. Futhermore, understanding the basic computational concepts used in data analysis will gain experience for later working in corporation with computer scientists."
+}
