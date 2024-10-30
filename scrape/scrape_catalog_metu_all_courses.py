@@ -1,3 +1,4 @@
+import os
 import csv
 import re
 import requests
@@ -51,6 +52,7 @@ def main():
                 course_data.append(cell_text)
             
             filename = f"{program}_all_courses.csv"
+            filename = os.path.join("data", filename)
             saveToCSV(course_data, filename)
             print(f"{filename} is saved.")
         else:
