@@ -9,7 +9,7 @@ import json
 
 PROGRAMS = [901, 904, 906, 908, 909, 911]
 SUFFIX = "all_courses.csv"
-PROGRAMS = [f"{prog}_{SUFFIX}" for prog in PROGRAMS]
+PROGRAMS = [os.path.join("data", f"{prog}_{SUFFIX}") for prog in PROGRAMS]
 SEPARATOR = "$"
 
 
@@ -28,14 +28,6 @@ def get_context_of_website(path_and_query):
     response = requests.get(url)
 
     return response.text
-
-
-
-def saveToCSV(data, filename):
-    
-    with open(filename, mode='w', newline='', encoding='utf-8') as file:
-        writer = csv.writer(file)
-        writer.writerows(data)
 
 
 
@@ -146,6 +138,7 @@ def main():
             
             
             filename = course_data_dict["Course Code"] +".json"
+            filename = os.path.join("data", filename)
             save_dict(course_data_dict, filename)
             print(f"{filename} is saved.")
 
