@@ -145,7 +145,7 @@ def main():
             course_data_dict["Course Content"]              = extract_course_content(html_content)
             
             
-            filename = course_data_dict["Course Code"]
+            filename = course_data_dict["Course Code"] +".json"
             save_dict(course_data_dict, filename)
             print(f"{filename} is saved.")
 
