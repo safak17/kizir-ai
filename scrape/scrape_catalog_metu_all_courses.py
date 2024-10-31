@@ -4,7 +4,7 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-PROGRAMS = [901, 904, 906, 908, 909, 911]
+PROGRAMS = [901, 902, 903, 904, 905, 906, 908, 909, 910, 911]
 
 def get_context_of_website(prog):
     url = f'https://catalog.metu.edu.tr/prog_courses.php?prog={prog}'
