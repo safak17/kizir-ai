@@ -1,0 +1,108 @@
+Semester|Program Code|Program Short Name|Course Code|Course Name|Credit|ECTS Credit|Course Section|Capacity|Day1|Start Hour1|End Hour1|Instructor Name|Instructor Title|Language of Instruction|Level of Study|Course Objectives|Course Learning Outcomes|Course Content|Prerequisite
+2024-2025 Fall|906|MI|9060533|BRAIN DYNAMICS AND OSCILLATIONS|3|8.0|1|15|Tuesday|13:40|16:30|TOLGA ESAT ÖZKURT|Assoc.Prof.Dr.|English|Graduate|At the end of this course, the student will learn:electroencephalography (EEG) and magnetoencephalography (MEG)  data analysisthe essential tools and principles to interpret brain data with high temporal resolutionthe necessary background for further research of advanced clinical and cognitive neuroimaging|Student, who passed the course satisfactorily will be able to:formulate the relation between brain sources and EEG/MEG dataimplement routines for numerical programminguse data analysis toolboxes to manipulate brain signalslocate the brain sources on MR imgages fexecute brain connectivity analysis techniquesrun statistical tools for brain oscillatory dataproject time series data into the dimensions of amplitude - frequency - phase|This course introduces the tools of Electroencephalography (EEG) and magnetoencephalography (MEG) data analysis to capture brain dynamics with fast temporal sampling. It will provide the relation between neuronal activity and electro-magnetic mapping, necessary physics of measured sensor data, brain source localization and identification. Various preprocessing tools, time-frequency analysis, brain source reconstruction methods will also be covered. Theory will be complemented by hands-on sessions in which students will be tutored through the complete analysis of EEG and MEG dataset with popular free online data analysis packages. The functional image of the brain will be studied with simulated and real EEg and MEG data projected on MR images.|Not Available
+2024-2025 Fall|906|MI|9060543|METHODOLOGY AND PHILOSOPHY OF NEUROSCIENCE|3|8.0|1|15|Thursday|13:40|16:30|TOLGA ESAT ÖZKURT|Assoc.Prof.Dr.|English|Graduate|||As a relatively new interdisciplinary area, brain sciences have witnessed a rapid growth and interest in the last decades. The popularity increased even more with the large scale research projects spreading to whole world. These deveoplments in neurosciences have also brought a high variety of appraches, techniques, scientific and philosophical paradigms and views under consideration.|Not Available
+2024-2025 Fall|906|MI|9060545|OBJECT ORIENTED PROGRAMMING AND DATA STRUCTURES|3|8.0|1|15|Thursday|09:40|12:30|AYBAR CAN ACAR|Assist.Prof.Dr|English|Graduate|Upon completion of the course, students should have:Working knowledge of a modern, multi-paradigm, memory-managed programming languagea good grasp of object oriented programming conceptsan understanding of algorithmic complexity and performance evaluationthe skill to create and adapt recursive and iterative algorithms to solve problemsknowledge of the internal details and performance characteristics of fundamental data structures, i.e. arrays, dictionaries, linked lists, trees and graphsknowledge of application oriented data structures like search trees, queues, stacks, and priority queues; their strengths and trade-offsthe ability to design competitive software solutions to biomedical informatics problems|Students, who are successful in the course will be able to:use both object oriented and functional programming constructs to design maintainable, and resilient software composed of clearly encapsulated, and loosely coupled objects.analyze the runtime performance (in terms of time, memory and I/O) of their software solutions and alternatives.Be able to design performant algorithms for common information processing tasks, recursive or otherwisechoose, based on the problem, or implement the most suitable data structures, or combinations thereof|Basic Object Oriented Principles will be discussed using a modern programming language i.e. Java. Theoretical approaches will be developed to implement Data Structures which is very important in algorithm development. The core of the class will be depend on using object oriented principles to implement algorithms in Data Structures using Java. Although some reading is required, practice is more important in learning any programming language.|Not Available
+2024-2025 Fall|906|MI|9060589|TERM PROJECT|0|20.0|1|0||||STAFF|-|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060589|TERM PROJECT|0|20.0|2|0||||NAZİFE BAYKAL|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060589|TERM PROJECT|0|20.0|3|5||||YEŞİM AYDIN SON|Assoc.Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060589|TERM PROJECT|0|20.0|4|0||||STAFF|-|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060589|TERM PROJECT|0|20.0|5|5||||AYBAR CAN ACAR|Assist.Prof.Dr|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060589|TERM PROJECT|0|20.0|6|5||||TOLGA ESAT ÖZKURT|Assoc.Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060589|TERM PROJECT|0|20.0|7|0||||STAFF|-|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060589|TERM PROJECT|0|20.0|8|5||||TUĞBA TAŞKAYA TEMİZEL|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060589|TERM PROJECT|0|20.0|9|5||||PEKİN ERHAN EREN|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060589|TERM PROJECT|0|20.0|10|5||||MURAT PERİT ÇAKIR|Assoc.Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060589|TERM PROJECT|0|20.0|11|5||||SEVGİ ÖZKAN YILDIRIM|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060589|TERM PROJECT|0|20.0|12|5||||BANU GÜNEL KILIÇ|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060589|TERM PROJECT|0|20.0|13|5||||BURÇAK OTLU SARITAŞ|Assist.Prof.Dr|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060589|TERM PROJECT|0|20.0|14|5||||ALPTEKİN TEMİZEL|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060589|TERM PROJECT|0|20.0|15|5||||HÜSEYİN HACIHABİBOĞLU|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|1|0||||STAFF|-|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|2|0||||NAZİFE BAYKAL|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|3|15||||YEŞİM AYDIN SON|Assoc.Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|4|0||||STAFF|-|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|5|15||||AYBAR CAN ACAR|Assist.Prof.Dr|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|6|15||||TOLGA ESAT ÖZKURT|Assoc.Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|7|5||||VİLDA PURUTÇUOĞLU|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|8|5||||TUĞBA TAŞKAYA TEMİZEL|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|9|0||||STAFF|-|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|10|0||||STAFF|-|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|11|5||||PEKİN ERHAN EREN|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|12|5||||ELİF SÜRER|Assoc.Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|13|5||||MURAT PERİT ÇAKIR|Assoc.Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|14|0||||STAFF|-|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|15|5||||SEVGİ ÖZKAN YILDIRIM|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|16|15||||BURÇAK OTLU SARITAŞ|Assist.Prof.Dr|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|17|5||||BANU GÜNEL KILIÇ|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|18|5||||MEHMET SOMEL|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|19|5||||ALPTEKİN TEMİZEL|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|20|5||||HÜSEYİN HACIHABİBOĞLU|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|21|5||||UMUT ÖZGE|Assist.Prof.Dr|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060599|MASTERS THESIS|0|50.0|22|0||||STAFF|-|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|1|0||||STAFF|-|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|2|0||||NAZİFE BAYKAL|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|3|20||||YEŞİM AYDIN SON|Assoc.Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|4|0||||STAFF|-|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|5|15||||AYBAR CAN ACAR|Assist.Prof.Dr|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|6|15||||TOLGA ESAT ÖZKURT|Assoc.Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|7|5||||VİLDA PURUTÇUOĞLU|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|8|5||||TUĞBA TAŞKAYA TEMİZEL|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|9|0||||STAFF|-|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|10|0||||STAFF|-|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|11|5||||PEKİN ERHAN EREN|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|12|5||||ELİF SÜRER|Assoc.Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|13|5||||MURAT PERİT ÇAKIR|Assoc.Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|14|0||||STAFF|-|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|15|5||||SEVGİ ÖZKAN YILDIRIM|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|16|15||||BURÇAK OTLU SARITAŞ|Assist.Prof.Dr|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|17|5||||BANU GÜNEL KILIÇ|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|18|5||||MEHMET SOMEL|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|19|5||||ALPTEKİN TEMİZEL|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|20|5||||HÜSEYİN HACIHABİBOĞLU|Prof.Dr.|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|21|5||||UMUT ÖZGE|Assist.Prof.Dr|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060699|PHD THESIS|0|130.0|22|0||||STAFF|-|English|Graduate|||Sorry no data is found for the course objective.|Not Available
+2024-2025 Fall|906|MI|9060717|MOBILE HEALTH|3|8.0|1|20|Wednesday|13:40|16:30|MUSTAFA DEĞERLİ|Lecturer|English|Graduate|Upon completion of the course, students should have understanding and appreciation of:Sensing of vital signals and transmission using wireless networks.Medical information representation framework for mobile health.Patient monitoring and wearable devices.Physiological monitoring on a mobile phone.Context aware mobile health systems.Task distribution for enhanced mobile health application performance.Students will also have gained practical experience on these matters through:Case studiesTerm project|Student, who passed the course satisfactorily will be able to:fulfill a requirement of physiological monitoring on a mobile phonedesign, develop and implement a mobile health applicaiton|Integration of mobile technologies and healthcare informatics sets the stage for innovative emerging research discipline titled as mhealth or mobile health. This course will include the basic ideas, tools, case studies and contributions of mobile in healthcare sector. The subjects to be covered will involve mobile and wireless concepts; medical information for mobile health and management; patient monitoring in diverse environment and in hospital; medical body sensor networks; context aware systems; mobile health performance. The course will include class discussions of theoretical concepts and case studies, quizzes, critical reading assignments, a midterm exam and a term project.|Not Available
+2024-2025 Fall|906|MI|9060801|SPECIAL  STUDIES|0|10.0|1|0||||STAFF|-||||||
+2024-2025 Fall|906|MI|9060802|SPECIAL  STUDIES|0|10.0|1|0||||NAZİFE BAYKAL|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060803|SPECIAL  STUDIES|0|10.0|1|15||||YEŞİM AYDIN SON|Assoc.Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060804|SPECIAL STUDIES|0|10.0|1|0||||STAFF|-||||||
+2024-2025 Fall|906|MI|9060805|SPECIAL STUDIES|0|10.0|1|15||||AYBAR CAN ACAR|Assist.Prof.Dr||||||
+2024-2025 Fall|906|MI|9060806|SPECIAL STUDIES|0|10.0|1|15||||TOLGA ESAT ÖZKURT|Assoc.Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060807|SPECIAL STUDIES|0|10.0|1|5||||VİLDA PURUTÇUOĞLU|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060808|SPECIAL STUDIES|0|10.0|1|5||||TUĞBA TAŞKAYA TEMİZEL|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060809|SPECIAL STUDIES|0|10.0|1|0||||STAFF|-||||||
+2024-2025 Fall|906|MI|9060810|SPECIAL STUDIES|0|10.0|1|0||||STAFF|-||||||
+2024-2025 Fall|906|MI|9060811|SPECIAL STUDIES|0|10.0|1|5||||PEKİN ERHAN EREN|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060812|SPECIAL STUDIES|0|10.0|1|5||||ELİF SÜRER|Assoc.Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060813|SPECIAL STUDIES|0|10.0|1|5||||MURAT PERİT ÇAKIR|Assoc.Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060814|SPECIAL STUDIES|0|10.0|1|0||||STAFF|-||||||
+2024-2025 Fall|906|MI|9060815|SPECIAL STUDIES|0|10.0|1|5||||SEVGİ ÖZKAN YILDIRIM|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060816|SPECIAL STUDIES|0|10.0|1|15||||BURÇAK OTLU SARITAŞ|Assist.Prof.Dr||||||
+2024-2025 Fall|906|MI|9060817|SPECIAL STUDIES|0|10.0|1|5||||BANU GÜNEL KILIÇ|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060818|SPECIAL STUDIES|0|10.0|1|5||||MEHMET SOMEL|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060819|SPECIAL STUDIES|0|15.0|1|5||||ALPTEKİN TEMİZEL|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060820|SPECIAL STUDIES|0|15.0|1|5||||HÜSEYİN HACIHABİBOĞLU|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060821|SPECIAL STUDIES|0|15.0|1|5||||UMUT ÖZGE|Assist.Prof.Dr||||||
+2024-2025 Fall|906|MI|9060822|SPECIAL STUDIES|0|15.0|1|0||||STAFF|-||||||
+2024-2025 Fall|906|MI|9060901|ADVANCED STUDIES|0|70.0|1|0||||STAFF|-||||||
+2024-2025 Fall|906|MI|9060902|ADVANCED STUDIES|0|70.0|1|0||||NAZİFE BAYKAL|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060903|ADVANCED STUDIES|0|70.0|1|20|Thursday|08:40|12:30|YEŞİM AYDIN SON|Assoc.Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060904|ADVANCED STUDIES|0|70.0|1|0||||STAFF|-||||||
+2024-2025 Fall|906|MI|9060905|ADVANCED STUDIES|0|70.0|1|15|Tuesday|13:40|17:30|AYBAR CAN ACAR|Assist.Prof.Dr||||||
+2024-2025 Fall|906|MI|9060906|ADVANCED STUDIES|0|70.0|1|15|Thursday|09:40|13:30|TOLGA ESAT ÖZKURT|Assoc.Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060907|ADVANCED STUDIES|0|70.0|1|5||||VİLDA PURUTÇUOĞLU|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060908|ADVANCED STUDIES|0|70.0|1|5||||TUĞBA TAŞKAYA TEMİZEL|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060909|ADVANCED STUDIES|0|70.0|1|0||||STAFF|-||||||
+2024-2025 Fall|906|MI|9060910|ADVANCED STUDIES|0|70.0|1|0||||STAFF|-||||||
+2024-2025 Fall|906|MI|9060911|ADVANCED STUDIES|0|70.0|1|5||||PEKİN ERHAN EREN|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060912|ADVANCED STUDIES|0|70.0|1|5||||ELİF SÜRER|Assoc.Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060913|ADVANCED STUDIES|0|70.0|1|5||||MURAT PERİT ÇAKIR|Assoc.Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060914|ADVANCED STUDIES|0|70.0|1|0||||STAFF|-||||||
+2024-2025 Fall|906|MI|9060915|ADVANCED STUDIES|0|70.0|1|5||||SEVGİ ÖZKAN YILDIRIM|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060916|ADVANCED STUDIES|0|70.0|1|15|Thursday|09:40|11:30|BURÇAK OTLU SARITAŞ|Assist.Prof.Dr||||||
+2024-2025 Fall|906|MI|9060917|ADVANCED STUDIES|0|70.0|1|5||||BANU GÜNEL KILIÇ|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060918|ADVANCED STUDIES|0|70.0|1|5||||MEHMET SOMEL|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060919|ADVANCED STUDIES|0|15.0|1|5||||ALPTEKİN TEMİZEL|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060920|ADVANCED STUDIES|0|15.0|1|5||||HÜSEYİN HACIHABİBOĞLU|Prof.Dr.||||||
+2024-2025 Fall|906|MI|9060921|ADVANCED STUDIES|0|15.0|1|5||||UMUT ÖZGE|Assist.Prof.Dr||||||
+2024-2025 Fall|906|MI|9060922|ADVANCED STUDIES|0|15.0|1|0||||STAFF|-||||||
