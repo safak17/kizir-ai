@@ -1,0 +1,13 @@
+{
+    "Course Code": "9020536",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cognitive Sciences",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Assoc.Prof.Dr. MURAT PERÝT ÇAKIR",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe major objective of this course is to enable students in cognitive science and related areas to statistically analyze empirical data in their respective area of research. For this purpose, the statistics textbook by Andy Field (2013, 4th edition) “Discovering Statistics Using IBM SPSS Statistics” is being taught. It comprises all major statistical tests, parametric (General Linear Models) and non-parametric, see course syllabus.This objective is reached by regularly attending the weekly lectures of the course instructor, three home-works, two short quizzes, and one exam at the end of the course.Minor objectives of this course are to provide students with an idea how to design experiments, operationalize their research idea, formulate hypotheses, interpret and report the statistical results.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesAt the end of the course students will be able to(1) choose appropriate statistical tests for a given research design and data sample(2) use (the current version of) IBM-SPSS(3) all major General Linear Models as well as Non-Parametric Models in the scope of the textbook(4) report the descriptive and inferential outcomes of the statistical tests and illustrate them graphically",
+    "Course Content": "Research methods: The students will be introduced to basic concepts of empirical research and experimental design: independent/dependent variable(s), variance. Methods and methodology of psychological research: experiment, observation, ex-post-facto design, cross-sectional studies, longitudinal studies. Statistics: The students will be introduced to Descriptive Statistics: building statistical models, the reason between polulation-sample, distributions, various mean values, variance, SD, SE, confidential intervals, test statistics, as well as to Inferential Statistics: General Linear Model (GLM), various forms of Analysis of Variance (ANOVA, ANCOVA, MANOVA, repeated measures ANOVA, mixed design ANOVA). Correlation. Regression. Non-paramatic tests. Factor analysis. Statistical analyses will be conducted using SPSS. Designing and reporting experiments."
+}

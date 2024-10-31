@@ -1,0 +1,13 @@
+{
+    "Course Code": "9020555",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cognitive Sciences",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Assoc.Prof.Dr. MURAT PERÝT ÇAKIR",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesTo develop a deeper understanding of computational principles underlying connectionist models of cognitive processes.To gain hands on experience with connectionist simulations in cognitive scienceTo get an overview of the history of connectionist approaches to studying cognitionTo get an overview of recent modeling work in computational cognitive neuroscience",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesTo develop the skills and background necessary to build connectionist models of cognitive processes to better explore the mechanisms underlying cognition",
+    "Course Content": "History and development of connectionism. The dispute between nativism and empiricism; symbols and rules vs. patterns and associations; connectionism and the cognitive sciences; connectionism and dynamical systems; perspectives and limitations of connectionism. Basic concepts of connectionist networks. Learning to work and doing exercises with a simple connectionist network (T-learn). Applications of connectionist modelling: human cognitive development, language acquisition (the English past tense debate), language production and processing, person perception, human consciousness, music."
+}

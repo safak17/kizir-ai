@@ -1,0 +1,13 @@
+{
+    "Course Code": "9100536",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cyber Security",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe student is expected to acquire knowledge and applied skills in the following pillars of cyber security research.Applying classical Machine Learning and Deep Learning (ML/DL) methodologies for the analysis of log dataApplying Natural Language Processing (NLP) methodologies and combining NLP Word Embedding models for malware analysis and network packet analysisHaving basic knowledge of statistics for conducting comparative data analysis, correlation analysis and linear mixed modelsAdopting Task Analysis methods for the analysis of human user behavior in cyber deception settings.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesBasic skills in applying various methodologies in cyber security research, such as statistics, machine learning methods, task analysis methods and other, relevant analysis methods in cyber security.",
+    "Course Content": "The course will review research and applications on applied topics in cybersecurity, for the purpose of teaching methodologies for a systematic analysis of cyber security incidences in multiple domains, including methods for statistical analysis, the analysis of common cyber security attacks, malware analysis, and network packet analysis. The lectures in the course will introduce basic statistical methods, classical machine learning methods, deep learning methods, as well as the task analysis methods and Natural Language Processing (NLP) methods, together with their implementations."
+}

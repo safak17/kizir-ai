@@ -1,0 +1,13 @@
+{
+    "Course Code": "9100501",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cyber Security",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesBy the end of this course, the students will be expected to learn the following key principles of Cyber Systems and Information Security:Key terminology of cyber security such as threat, attack, vulnerability, risk, …Information security policies and proceduresThe fundamental concepts of cryptographyAuthenticationAuthorization and access control policesNetwork vulnerabilities and defense mechanismsWeb application attacks and defense mechanismsHuman threats and social engineeringWireless security and cyber security in mobile environmentThe legal aspects of a computer forensicsSecurity management",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesThis course emphasizes on the concepts in the field of computer and information security. The course is plan to introduce students to the fundamentals of computer security and applied cryptography. This course is designed to make students familiar with: i) various authentication and authorization methods; ii) understanding network, web, application and mobile vulnerabilities and their current defenses; iii) encryption solutions to protect data availability, confidentiality and integrity.  Students will also learn the fundamental methodology for analyze security systems, model available threats and provide security solutions.",
+    "Course Content": "This course will cover fundamentals of cyber systems and information security. The course provides a strong foundation in cyber systems and information security. The focus of the course is security and risk management, asset security, identity and access management, security assessment and testing, cryptography, penetration testing, mobile security, social engineering, legal and ethical issues."
+}

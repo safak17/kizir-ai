@@ -1,0 +1,13 @@
+{
+    "Course Code": "9050514",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Software Management",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Prof.Dr. ONUR DEMÝRÖRS",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesStudents will become familiar with quality concepts, learn various test techniques, and will be able to plan test activities, use project management techniques to track the progress of test execution, and will learn how to analyze test metrics to improve the testing process.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudents who successfully completing this course will:Have a good understanding of software quality and testing conceptsBe able to select the right technique to generate test casesBe able to write test documentation using standardsBe able to plan, track, and complete test activitiesBe able to use test metrics effectively to manage and improve testing processApply the right tools for test management and automation",
+    "Course Content": "The Relationship Of Software Testing To Quality Is Examined With An Emphasis On Testing Techniques. Topics Include Module And Unit Testing, Integration And Acceptance Testing, Statistical Testing Methods, Defining Test Plans And Strategies That Map To System Requirements. Testing Principles, Formal Models Of Testing And Software Testing Standards Are Also Examined."
+}

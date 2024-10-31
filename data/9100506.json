@@ -1,0 +1,13 @@
+{
+    "Course Code": "9100506",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cyber Security",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "In todays high technology environment, organizations of all kinds rely on information systems to perform most of their business processes. The protection of the information assets underpins the commercial viability of all enterprises and the effectiveness of public sector organizations. Ensuring the secure operation of the business critical IT processes, therefore, gets more important from day to day and enterprises feel obliged to put information security higher on the board agenda as part of the enterprise governance rather than leaving it solely to technical people as in the past. The course covers the principles of applied information security management and is suitable for those who are looking for an in-depth understanding of security management in medium to large organizations. The course comprises the following topics: governance and security policy, threat and vulnerability management, incident management, risk management, information leakege, crisis management and business continuity, legal and compliance, security awareness and security implementation considerations. The topics are mostly based on ISO 27000 standards. The areas to be covered generally are: ISO 27000 series and the Plan Do Check Act model, assessment of threats and vulnerabilities, incident response, forensics and investigations, risk assessment and risk management, frameworks, dealing with classified sensitive data, contingency planning, legal and regulatory drivers and issues, certification, common criteria, security awareness, education and training, and practical considerations when implementing the frameworks to address current and future threats.Students will be introduced to the complexity of real security issues facing todays networked organizations. Through the assignments and case studies on information security management, this course will present best practices and standards, and will enable students to assess and plan for security risks and also develop and maintain security"
+}

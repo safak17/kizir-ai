@@ -1,0 +1,13 @@
+{
+    "Course Code": "9030506",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Modelling And Simulation",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "What is combinatorics? Basic counting rules. Recurrence relations. Divide and conquer algorithms. Deterministic Decision Models Methods: Linear programming, integer programming, nonlinear programming, enumeration, dynamic programming. Analysis of algorithms: worst case, average. Applications: knapsack, travelling  salesman, chinese postman, spanning tree, steiner tree, graph partitioning, cell formation, assembly line balancing. Meta heuristics: greedy, divide and conquer, local search: interchange, look-ahead, simulated annealing, genetic algorithms, neural networks."
+}

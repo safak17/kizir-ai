@@ -1,0 +1,13 @@
+{
+    "Course Code": "9100507",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cyber Security",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Assoc.Prof.Dr. CÝHANGÝR TEZCAN",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe aim of this course is to give the fundamental concepts of cryptography and introduce to students the private key, public key cryptographic systems, and cryptographic hash functions.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesAt the end of the course the student is expected to learn: the basic facts about cryptography, internationally standardized cryptographic algorithms, basic cryptanalytic techniques and password cracking.",
+    "Course Content": "Historical introduction to cryptography. Block ciphers: Descriptions of internationally standardized ciphers. Modes of Operation. Block cipher cryptaanalysis. Cryptographic Hash Functions. Password cracking. Stream Ciphers. Public-key cryptography: Discrete logarithm and factorization problems. Descriptions of Diffle-Hellman key exchange, RSA, DSA algorithms. TLS/SSL protocol."
+}

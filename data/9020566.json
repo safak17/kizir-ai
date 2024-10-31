@@ -1,0 +1,13 @@
+{
+    "Course Code": "9020566",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cognitive Sciences",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe course aims to show how probabilistic and Bayesian models can be applied for modelling different aspects of cognition including learning, causal reasoning and decision making. We will use probabilistic programming languages to apply these models.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesUpon completion of this course, the students will be able to build and compute probabilistic generative models for different cognitive processes using a probabilistic programming language.",
+    "Course Content": "Bayesian inference and conditioning; probabilistic programming languages; generative models; conditional dependence; object oriented probabilistic models; Bayesian data analysis; inference algorithms; learning as conditional inference; hierarchical models; Occams razor; mixture models"
+}

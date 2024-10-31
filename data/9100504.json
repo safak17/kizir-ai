@@ -1,0 +1,13 @@
+{
+    "Course Code": "9100504",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cyber Security",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe aim of this course is to give the fundamental concepts of penetration testing and introduce to students setting up the testing environment, testing stages, different methodologies for testing different environments.At the end of the course, the student is expected to learn: penetration testing methodology, basic Linux commands, testing stages, CTF competitions, vulnerabilities, and exploitation of various environments..",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "Introduction to penetration testing. Penetration testing planning; determining scope and rules of engagement documentation. Penetration testing tools: setting up virtual up and toolset. Reconnaissance phase: open source intelligence, information gathering, correlation, verification, and priorization. Scanning phase: enumeration, port scanning, and vulnerability analysis. Exploitation phase: manual exploitation, password cracking and Metasploit framework. Post-exploitation phase: Data gathering, network analysis, maintaining access, pivoting. Reporting phase: penetration test report structure and components. Bypassing security controls and avoiding detection."
+}

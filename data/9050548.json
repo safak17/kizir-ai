@@ -1,0 +1,13 @@
+{
+    "Course Code": "9050548",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Software Management",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "This course summarizes computer systems from a programmers perspective and it is for students with no backgrounds in logic design, computer organization and computer architecture. Starting with a program in a high level language, all stages from compilation, assembly and execution of instructions in hardware level are covered. More advanced topics such as pipelining and cache memories are also discussed. The students who finish the course can write better programs since they will be able to understand better how the computer programs are executed."
+}

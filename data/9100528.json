@@ -1,0 +1,13 @@
+{
+    "Course Code": "9100528",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(2-2)",
+    "ECTS Credit": "8.0",
+    "Department": "Cyber Security",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe objective of this course is to give the fundamental concepts of artificial intelligence and introduce the students with setting up the coding environment, data manipulation and classification execution stages, different techniques of machine learning.At the end of the course, the students are expected to learn different data mining techniques, coding in an interactive Python environment using artificial intelligence related libraries, executing different machine learning methods with a cyber security view.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesAt the end of the course, the students are expected to learn different data mining techniques, coding in an interactive Python environment using artificial intelligence related libraries, executing different machine learning methods with a cyber security view.",
+    "Course Content": "This course aims to familiarize the cyber security and information systems students with data mining techniques and machine learning methods, with hands-on demonstrations on different cyber security use cases. The course will be conducted by first discussing the related concepts in theoretical formal lectures then applying sample codes in practical laboratory sessions."
+}
