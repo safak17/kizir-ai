@@ -1,0 +1,30 @@
+[
+    {
+        "question": "I want to take a course related to deep learning",
+        "ground_truths": "We offer courses like 'DEEP LEARNING: METHODS AND APPLICATIONS' and 'GENERATIVE MODELS FOR MULTIMEDIA'."
+    },
+    {
+        "question": "i want courses related to text, deep learning included",
+        "ground_truths": "We offer courses like 'DEEP LEARNING FOR TEXT ANALYTICS'."
+    },
+    {
+        "question": "i want courses for game design",
+        "ground_truths": "We offer courses like 'GAME DEVELOPMENT PIPELINE'."
+    },
+    {
+        "question": "i want courses about cognitive algorithms",
+        "ground_truths": "We offer courses like 'COGNITIVE ALGORITHMS'."
+    },
+    {
+        "question": "who is the president of usa",
+        "ground_truths": "I'm not able to provide information about current events or political figures."
+    },
+    {
+        "question": "i want courses about Data Mining",
+        "ground_truths": "We offer courses like 'DATA MINING' and 'KNOWLEDGE, DISCOVERY AND MINING'"
+    },
+    {
+        "question": "i want to take course on gpu programming",
+        "ground_truths": "We offer courses like 'Applied Parallel Programming on GPU'"
+    }
+]
