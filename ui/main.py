@@ -1,21 +1,26 @@
+# main.py
 from fastapi import FastAPI, WebSocket
-from typing import List
-from pydantic import BaseModel
+import websockets
+import asyncio
 
 app = FastAPI()
 
-class ChatRequest(BaseModel):
-    message: str
-
-async def generate_response(message: str) -> str:
-    # Burada yanıtı oluşturmak için bir model (örneğin OpenAI API) çağırabilirsin.
-    # Örnek olarak sabit bir yanıt döndüreceğiz.
-    return f"dummy message: {message}"  # Basitçe mesajı ters çevirerek döndür
-
 @app.websocket("/ws")
 async def websocket_endpoint(websocket: WebSocket):
+    uri = "ws://localhost:9000/llm"  # LLM taklit edicinin portu
     await websocket.accept()
-    while True:
-        data = await websocket.receive_text()
-        response = await generate_response(data)
-        await websocket.send_text(response)
+    try:
+        async with websockets.connect(uri) as llm_websocket:
+            while True:
+                data = await websocket.receive_text()
+                await llm_websocket.send(data)
+
+                # LLM'den gelen her kelimeyi client'a iletin
+                while True:
+                    response = await llm_websocket.recv()
+                    if "<end-of-response>" in response:
+                        break
+                    await websocket.send_text(response)
+    except websockets.exceptions.ConnectionClosedError:
+        await websocket.close()
+        return "Connection was closed unexpectedly."
