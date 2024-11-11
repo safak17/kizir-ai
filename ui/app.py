@@ -2,107 +2,119 @@ import streamlit as st
 import asyncio
 import websockets
 
-# Title with image on the right
-col1, col2 = st.columns([3, 1])  # Adjust the proportions as needed
-
+# Title and logo section
+col1, col2 = st.columns([0.8, 0.2])
 with col1:
-    st.title("KIZIR AI MetuBOT")
-
+    st.title("💬 MetuBOT")
 with col2:
-    # Replace 'metubot_logo.png' with your actual image file path
     st.image("logo.png", use_column_width=True)
+st.caption("🚀 A METU course support chatbot powered by KIZIR-AI")
 
-# Initialize chat history and stop flag in session state
-if "chat_history" not in st.session_state:
-    st.session_state["chat_history"] = []
+# Initialize chat history and stop state if not already in session state
+if "messages" not in st.session_state:
+    st.session_state["messages"] = [{"role": "assistant", "content": "Hello! I am MetuBOT, here to assist you with information about courses at METU Informatics Institute. Feel free to ask me about course details, prerequisites, and more!"}]
 if "stop" not in st.session_state:
     st.session_state["stop"] = False
 
-# Add an initial message from the bot when the app starts
-if not st.session_state["chat_history"]:
-    st.session_state["chat_history"].append(
-        "Hello! I am MetuBOT, here to assist you with information about courses at METU Informatics Institute. "
-        "Feel free to ask me about course details, prerequisites, and more!"
-    )
+# Display chat history and maintain placeholders for message styling
+# Display chat history and maintain placeholders for message styling
+placeholders = []
+for msg in st.session_state.messages:
+    placeholder = st.empty()
+    if msg["role"] == "assistant":
+        placeholder.markdown(
+            f"""
+            <div style='background-color: #f1f0f0; padding: 10px; border-radius: 10px; margin-bottom: 10px; color: black;
+                        border: 1px solid #d1d1d1; max-width: 80%; float: left; clear: both; word-wrap: break-word; white-space: pre-wrap;'>
+                <strong>Assistant:</strong> {msg['content']}
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+    else:
+        placeholder.markdown(
+            f"""
+            <div style='background-color: #dcf8c6; padding: 10px; border-radius: 10px; margin-bottom: 10px; color: black;
+                        border: 1px solid #b8e994; max-width: 80%; float: right; clear: both; word-wrap: break-word; white-space: pre-wrap;'>
+                <strong>You:</strong> {msg['content']}
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+    placeholders.append(placeholder)
 
-async def chat_with_bot(user_message, response_placeholder):
-    uri = "ws://localhost:9000/llm"  # LLM simülatörünün çalıştığı port
+
+# Chat input field in the main area
+user_input = st.chat_input("Your message")
+
+# Sidebar with title, Stop button, and Clear Conversation button
+with st.sidebar:
+    st.title("Options")
+    if st.button("Stop"):
+        st.session_state["stop"] = True  # Set stop signal
+    if st.button("Clear Conversation"):
+        st.session_state["messages"] = [{"role": "assistant", "content": "Hello! I am MetuBOT, here to assist you with information about courses at METU Informatics Institute.\n\nFeel free to ask me about course details, prerequisites, and more!"}]
+        st.session_state["stop"] = False
+        st.rerun()  # Refresh the app to show the cleared conversation
+
+# Asynchronous function to fetch response from WebSocket
+async def fetch_response_stream(user_message):
+    uri = "ws://localhost:9000/llm"
     try:
-        async with websockets.connect(uri) as llm_websocket:
-            await llm_websocket.send(user_message)
-            
-            response = ""  # To accumulate the full response
-            
-            while True:
-                partial_response = await llm_websocket.recv()
-                if "<end-of-response>" in partial_response:
+        async with websockets.connect(uri) as websocket:
+            await websocket.send(user_message)
+            response = ""
+            async for word in websocket:
+                if st.session_state["stop"]:
                     break
-                response += partial_response
-
-                # Display the partial response in the provided placeholder in the sidebar
-                response_placeholder.markdown(f"**MetuBOT:** {response}")
-
-            # Ensure the final response is set in the placeholder and update chat history
-            response_placeholder.markdown(f"**MetuBOT:** {response}")
-            st.session_state["chat_history"].append(f"MetuBOT: {response}")
-            return response
+                if word == "<end-of-response>":
+                    break
+                response += word
+                yield response
     except websockets.exceptions.ConnectionClosedError:
-        return "Connection was closed unexpectedly. Please try again."
+        yield "Connection was closed unexpectedly."
 
-def display_chat():
-    st.write("## Chat History")
-    for i, chat in enumerate(st.session_state["chat_history"]):
-        # Define user and bot message colors
-        user_bg_color = "#D1E7FD"
-        bot_bg_color = "#F1F1F1"
-        text_color = "black"  # Set text color to black for better readability
-        
-        # Differentiate styles for user and bot messages
-        if "You:" in chat:  # User message
-            st.markdown(f"""
-                <div style='background-color: {user_bg_color}; padding: 10px; border-radius: 10px; margin-bottom: 10px; color: {text_color};
-                            white-space: pre-wrap; word-wrap: break-word; overflow-wrap: break-word; display: flex; flex-direction: column;'>
-                    <strong>You:</strong> <span style="margin-top: 5px;">{chat.replace('You: ', '')}</span>
+# Handle user message submission
+if user_input:
+    st.session_state["stop"] = False
+    st.session_state["messages"].append({"role": "user", "content": user_input})
+
+    # Display user message immediately
+    user_placeholder = st.empty()
+    user_placeholder.markdown(
+        f"""
+        <div style='background-color: #dcf8c6; padding: 10px; border-radius: 10px; margin-bottom: 10px; color: black;
+                    border: 1px solid #b8e994; max-width: 80%; float: right; clear: both;'>
+            <strong>You:</strong> {user_input}
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+    placeholders.append(user_placeholder)
+
+    # Placeholder for the assistant's streamed response
+    assistant_placeholder = st.empty()
+    partial_response = ""  # Store incremental assistant response here
+    placeholders.append(assistant_placeholder)
+
+    # Stream and display the assistant's response
+    async def display_streamed_response():
+        async for chunk in fetch_response_stream(user_input):
+            partial_response = chunk  # Update partial response with each chunk
+            # Update the displayed response incrementally
+            assistant_placeholder.markdown(
+                f"""
+                <div style='background-color: #f1f0f0; padding: 10px; border-radius: 10px; margin-bottom: 10px; color: black;
+                            border: 1px solid #d1d1d1; max-width: 80%; float: left; clear: both;'>
+                    <strong>Assistant:</strong> {partial_response}
                 </div>
-                """, unsafe_allow_html=True)
-        else:  # Bot message
-            st.markdown(f"""
-                <div style='background-color: {bot_bg_color}; padding: 10px; border-radius: 10px; margin-bottom: 10px; color: {text_color};
-                            white-space: pre-wrap; word-wrap: break-word; overflow-wrap: break-word; display: flex; flex-direction: column;'>
-                    <strong>MetuBOT:</strong> <span style="margin-top: 5px;">{chat.replace('MetuBOT: ', '')}</span>
-                </div>
-                """, unsafe_allow_html=True)
+                """,
+                unsafe_allow_html=True
+            )
+            if st.session_state["stop"]:
+                break
+        # Save the full or partial response when streaming is complete or stopped
+        st.session_state["messages"].append({"role": "assistant", "content": partial_response})
+        st.rerun()
 
-def main():
-    st.sidebar.write("Enter your message:")
-    
-    # Message input box
-    user_message = st.sidebar.text_area("Message", key="user_message", height=50, max_chars=500, placeholder="Type your message here...").strip()
-
-    # Create a placeholder in the sidebar for the streaming response
-    response_placeholder = st.sidebar.empty()
-
-    # Send button
-    if st.sidebar.button("Send"):
-        if user_message:
-            # Reset stop flag before sending a new message
-            st.session_state["stop"] = False
-            
-            # Add user message to chat history
-            st.session_state["chat_history"].append(f"You: {user_message}")
-            
-            # Retrieve response from the bot asynchronously
-            loop = asyncio.new_event_loop()
-            asyncio.set_event_loop(loop)
-            loop.run_until_complete(chat_with_bot(user_message, response_placeholder))
-            loop.close()
-            st.sidebar.empty()  # Clear input
-
-    # Stop button
-    if st.sidebar.button("Stop"):
-        st.session_state["stop"] = True  # Set stop flag to True
-    
-    display_chat()
-
-if __name__ == "__main__":
-    main()
+    asyncio.run(display_streamed_response())
