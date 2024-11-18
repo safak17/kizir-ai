@@ -1,13 +1,14 @@
 import streamlit as st
 import asyncio
 import websockets
+import html
 
 # Title and logo section
 col1, col2 = st.columns([0.8, 0.2])
 with col1:
     st.title("💬 MetuBOT")
 with col2:
-    st.image("logo.png", use_column_width=True)
+    st.image("logo.png", use_container_width=True)
 st.caption("🚀 A METU course support chatbot powered by KIZIR-AI")
 
 # Initialize chat history and stop state if not already in session state
@@ -100,14 +101,13 @@ if user_input:
     # Stream and display the assistant's response
     async def display_streamed_response():
         async for chunk in fetch_response_stream(user_input):
-            partial_response = chunk  # Update partial response with each chunk
+            partial_response = html.escape(chunk.rstrip())  # Update partial response with each chunk
             # Update the displayed response incrementally
             assistant_placeholder.markdown(
                 f"""
                 <div style='background-color: #f1f0f0; padding: 10px; border-radius: 10px; margin-bottom: 10px; color: black;
                             border: 1px solid #d1d1d1; max-width: 80%; float: left; clear: both;'>
-                    <strong>Assistant:</strong> {partial_response}
-                </div>
+                    <strong>Assistant:</strong> {partial_response}</div> 
                 """,
                 unsafe_allow_html=True
             )
@@ -116,5 +116,6 @@ if user_input:
         # Save the full or partial response when streaming is complete or stopped
         st.session_state["messages"].append({"role": "assistant", "content": partial_response})
         st.rerun()
+
 
     asyncio.run(display_streamed_response())
