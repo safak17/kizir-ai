@@ -7,7 +7,7 @@ app = FastAPI()
 
 @app.websocket("/ws")
 async def websocket_endpoint(websocket: WebSocket):
-    uri = "ws://localhost:9000/llm"  # LLM taklit edicinin portu
+    uri = "ws://localhost:9090/llm"  # LLM taklit edicinin portu
     await websocket.accept()
     try:
         async with websockets.connect(uri) as llm_websocket:
