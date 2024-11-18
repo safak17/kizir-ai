@@ -38,6 +38,9 @@ bash start.sh
 ## METUBOT Demo
 ![Demo](media/output.gif)
 
+## Architecture
+![Media](media/architecture_diagram.png)
+
 ## File Structure
 ```plaintext
 .
