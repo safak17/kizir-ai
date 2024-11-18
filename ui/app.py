@@ -59,7 +59,7 @@ with st.sidebar:
 
 # Asynchronous function to fetch response from WebSocket
 async def fetch_response_stream(user_message):
-    uri = "ws://localhost:9000/llm"
+    uri = "ws://localhost:9090/llm"
     try:
         async with websockets.connect(uri) as websocket:
             await websocket.send(user_message)
