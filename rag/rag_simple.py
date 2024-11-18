@@ -9,15 +9,16 @@ import time
 from transformers import AutoTokenizer
 
 class CourseRecommendationAssistant:
-    def __init__(self, model_path, embedding_model_name, vectorstore_path):
+    def __init__(self, model_path, embedding_model_name, vectorstore_path,callback_use = True):
         # Define the system prompts
         self.template = """SYSTEM MESSAGE:
-You are an AI assistant at Middle East Technical University that recommends courses and give information about regulations. You politely listen and respond to prospective students or students questions about courses and regulations. Ask questions and try to better narrow down what student want to do.You were just asked your first question by the student. STUDENT USER: {question} 
+You are an AI assistant at Middle East Technical University that recommends courses and give information about regulations. You politely listen and respond to prospective students or students questions about courses and regulations. You were asked your first question by the student. STUDENT USER: {question} 
 
-Answer the question if it's related to the courses and remind your objective if it is not related to courses and regulations. Use the documents below to answer the question {docs} . Recommend courses if suitable.
+Answer the question if it's related to the courses and remind your objective if it is not related to courses and regulations. Use the documents below to answer the question {docs} . You have all the information that you need to answer the question. You will recommend courses with their names and course codes. If course has any prerequisite, then specify it as well. Recommend courses everytime if any course related question is asked. If the question is unrelated to courses and regulations, do not recommend courses. Use the documents as course catalog.
 SYSTEM ANSWER: """
 
-        self.summarize_template = """You are an AI assistant at Middle East Technical University that recommends courses and give information about regulations. You have taken chat history '{chat_history}' and input question '{question}'. Summarize the input question using the chat history as a one sentence output. """
+        self.summarize_template = """You are an AI assistant at Middle East Technical University that recommends courses and give information about regulations. You have taken chat history '{chat_history}' and input question '{question}'. Summarize the input question using the chat history as a one sentence output. If no chat history found then only use the given input question.
+SUMMARIZED ANSWER:  """
 
         # Initialize prompts
         self.prompt = PromptTemplate.from_template(self.template)
@@ -25,7 +26,11 @@ SYSTEM ANSWER: """
 
 
         # Callback manager for streaming outputs
-        self.callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
+        if callback_use:
+            self.callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
+        else:
+            self.callback_manager = None
+            
 
         # LLM model configuration
         self.llm = LlamaCpp(
@@ -68,6 +73,13 @@ SYSTEM ANSWER: """
     def get_response(self, question, docs):
         """Generates a response using the question and retrieved documents."""
         return self.llm_chain.invoke({"question": question, "docs": docs})
+
+    async def add_to_chat_history(self,response,question_summarized):
+        self.chat_history.extend([
+            HumanMessage(content=question_summarized),
+            AIMessage(content=response),
+        ])
+        
 
 
     def interact(self,debug=False):
@@ -156,8 +168,15 @@ SYSTEM ANSWER: """
             HumanMessage(content=question_summarized),
             AIMessage(content=response),
         ])
+        self.reset_history()
         return response,docs
 
+    async def stream(self,question):
+        #question_summarized = self.summarize_chain.astream({"question": question, "chat_history": self.chat_history})
+        question_summarized = self.get_summary(question, self.chat_history)
+        docs = self.retrieve_documents(question_summarized)
+        response = self.llm_chain.astream({"question": question_summarized, "docs": docs})
+        return question_summarized,response
 
 
 
