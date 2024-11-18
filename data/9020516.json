@@ -1,0 +1,13 @@
+{
+    "Course Code": "9020516",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cognitive Sciences",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThis course will examine the basic principles of probabilistic programming and Bayesian modelling, for analysis of data which may come from observational or experimental cognitive science studies. A variety of Bayesian data analysis will be discussed and implemented in an expressive probabilistic programming language. Approaches for model building, model checking and model validation will be discussed following a Bayesian workflow.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesUpon completion of this course (a) the students will be able build probabilistic models to analyze data using an expressive probabilistic programming language and a Bayesian workflow (b) select appropriate inference methods for their models and (c) validate their models, assess the convergence of the inference methods,",
+    "Course Content": "Introduction to Probabilistic Programming; generative modelling, Bayesian inference, executing probabilistic programs; exact inference; rejection sampling; importance sampling; Markov Chain Monte Carlo (MCMC); efficient MCMC Techniques; deep Probabilistic Programming; Probabilistic Programming applications."
+}

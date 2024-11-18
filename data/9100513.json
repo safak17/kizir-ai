@@ -1,0 +1,13 @@
+{
+    "Course Code": "9100513",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cyber Security",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesLightweight cryptography is a subfield of cryptography that aims to provide solutions tailored for resource-constrained devices. The aim of this course is to give the fundamental knowledge of lightweight cryptography algorithms, protocols, standards, and performance metrics. The student is expected to acquire the knowledge of how to design and analyze lightweight algorithms and protocols.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "Lightweight block ciphers. Lightweight hash functions. Lightweight message authentication codes. Lightweight stream ciphers. Lightweight cryptography standards. Lightweight devices and performance metrics. Cryptanalysis of lightweight designs. Side-channel analysis. Internet of things."
+}

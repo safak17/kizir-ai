@@ -1,0 +1,270 @@
+[
+    {
+        "question": "I want to take a course related to deep learning",
+        "ground_truths": "We offer courses like 'DEEP LEARNING: METHODS AND APPLICATIONS' and 'GENERATIVE MODELS FOR MULTIMEDIA'."
+    },
+    {
+        "question": "i want courses related to text, deep learning included",
+        "ground_truths": "We offer courses like 'DEEP LEARNING FOR TEXT ANALYTICS'."
+    },
+    {
+        "question": "i want courses for game design",
+        "ground_truths": "We offer courses like 'GAME DEVELOPMENT PIPELINE'."
+    },
+    {
+        "question": "i want courses about cognitive algorithms",
+        "ground_truths": "We offer courses like 'COGNITIVE ALGORITHMS'."
+    },
+    {
+        "question": "who is the president of usa",
+        "ground_truths": "I'm not able to provide information about current events or political figures."
+    },
+    {
+        "question": "i want courses about Data Mining",
+        "ground_truths": "We offer courses like 'DATA MINING' and 'KNOWLEDGE, DISCOVERY AND MINING'"
+    },
+    {
+        "question": "i want to take course on gpu programming",
+        "ground_truths": "We offer courses like 'Applied Parallel Programming on GPU'"
+    },
+    {
+        "question": "What courses are available on machine learning?",
+        "ground_truths": "Courses such as 'Deep Learning: Methods and Applications', and 'Generative Models for Multimedia' are available."
+    },
+    {
+        "question": "Can you describe the curriculum of the Data Science program?",
+        "ground_truths": "The Data Science program includes courses on statistics, machine learning, data visualization, and big data technologies."
+    },
+    {
+        "question": "How does the Cybersecurity program differ from the Software Management program?",
+        "ground_truths": "The Cybersecurity program focuses on information security principles and practices, while the Software Management program emphasizes software development processes and project management."
+    },
+    {
+        "question": "What are the prerequisites for enrolling in the Deep Learning course?",
+        "ground_truths": "Prerequisites typically include a solid understanding of machine learning fundamentals and proficiency in programming languages like Python."
+    },
+    {
+        "question": "Why is Python a prerequisite for the Data Informatics program?",
+        "ground_truths": "Python is widely used in data analysis and machine learning, making it essential for coursework in the Data Informatics program."
+    },
+    {
+        "question": "If I have a background in biology, which courses would help me transition into bioinformatics?",
+        "ground_truths": "Courses like 'Biological Signal Analysis' would be beneficial."
+    },
+    {
+        "question": "Which courses cover both data visualization and machine learning techniques?",
+        "ground_truths": "The 'Data Mining and Knowledge Discovery' course encompasses both data visualization and machine learning techniques."
+    },
+    {
+        "question": "What courses are available for someone interested in natural language processing?",
+        "ground_truths": "Courses such as 'Deep Learning for Text Analytics' and 'Transformers and Attention-Based Deep Networks' are available."
+    },
+    {
+        "question": "Can you provide a list of elective courses in the Information Systems program?",
+        "ground_truths": "Elective courses include 'Cloud Computing: Technology and Business', 'Social Media Analytics', and 'Big Data'."
+    },
+    {
+        "question": "What is the focus of the 'Foundations of Deep Learning' course?",
+        "ground_truths": "This course covers the fundamental concepts and architectures of deep learning, including neural networks and their applications."
+    },
+    {
+        "question": "Are there any courses that teach both software project management and quality assurance?",
+        "ground_truths": "Yes, the 'Software Project Management' and 'Software Quality Management' courses cover these topics."
+    },
+    {
+        "question": "What courses should I take if I'm interested in data mining?",
+        "ground_truths": "Courses like 'Data Mining and Knowledge Discovery' and 'Big Data' are recommended."
+    },
+    {
+        "question": "Is there a course that combines cognitive science and artificial intelligence?",
+        "ground_truths": "Yes, the 'Artificial Intelligence for Cognitive Science' course integrates both fields."
+    },
+    {
+        "question": "What are the core courses in the Cybersecurity M.S. program?",
+        "ground_truths": "Core courses include 'Cryptography and Network Security' and 'Information Security Management'."
+    },
+    {
+        "question": "Can I take courses from other departments as electives in the Data Informatics program?",
+        "ground_truths": "Yes, with advisor approval, you can select electives from different departments."
+    },
+    {
+        "question": "What programming languages are taught in the Software Management program?",
+        "ground_truths": "The program emphasizes languages like Java and Python, especially in courses like 'Object-Oriented Programming and Data Structures'."
+    },
+    {
+        "question": "Are there any courses focused on multimedia signal processing?",
+        "ground_truths": "Yes, the 'Multimedia Signal Processing' course covers this area."
+    },
+    {
+        "question": "What courses are available for someone interested in spatio-temporal data mining?",
+        "ground_truths": "The 'Spatio-temporal Data Mining' course is available."
+    },
+    {
+        "question": "Is there a course that covers both cloud computing and mobile computing?",
+        "ground_truths": "Yes, the 'Mobile and Pervasive Computing' course addresses both topics."
+    },
+    {
+        "question": "What courses are offered in the Cognitive Science M.S. program?",
+        "ground_truths": "Courses include 'Functional Neuroanatomy', 'Dynamic Semantics', and 'Artificial Intelligence for Cognitive Science'."
+    },
+    {
+        "question": "Which courses cover both artificial intelligence and ethics?",
+        "ground_truths": "The 'Research Methods and Ethics' course addresses ethical considerations in artificial intelligence."
+    },
+    {
+        "question": "Are there any courses that focus on blockchain technology?",
+        "ground_truths": "Yes, the 'Blockchain and Cryptocurrencies' course covers blockchain technology."
+    },
+    {
+        "question": "Can you recommend courses that teach data visualization techniques?",
+        "ground_truths": "Courses such as 'INTRODUCTION TO DATA INFORMATICS' is recommended."
+    },
+    {
+        "question": "What are the elective options in the Software Management program?",
+        "ground_truths": "Elective options include 'Agile Software Development', 'Software Metrics', and 'Software Process Improvement'."
+    },
+    {
+        "question": "Is there a course that combines machine learning and multimedia?",
+        "ground_truths": "Yes, the 'Machine Learning for Multimedia Informatics' course integrates both areas."
+    },
+    {
+        "question": "What courses should I take if I'm interested in cybersecurity?",
+        "ground_truths": "Courses like 'Network Security', 'Cryptography', and 'Ethical Hacking' are recommended."
+    },
+    {
+        "question": "Are there any courses focused on reinforcement learning?",
+        "ground_truths": "Yes, the 'Reinforcement Learning' course is available."
+    },
+    {
+        "question": "What are the core courses in the Data Informatics M.S. program?",
+        "ground_truths": "Core courses include 'Data Mining', 'Big Data Analytics', and 'Statistical Methods for Data Science'."
+    },
+    {
+        "question": "Can I take online courses as part of the Information Systems program?",
+        "ground_truths": "Yes, certain courses are available online; please consult the program's course offerings."
+    },
+    {
+        "question": "What courses are available for someone interested in bioinformatics?",
+        "ground_truths": "Courses like 'Bioinformatics', 'Clinical Bioinformatics' are available."
+    },
+    {
+        "question": "Is there a course that covers both cloud computing and big data?",
+        "ground_truths": "Yes, the 'Cloud Computing' and 'Big Data' course addresses both topics."
+    },
+    {
+        "question": "What courses are available on data ethics?",
+        "ground_truths": "Courses such as 'Research Methods and Ethics' cover data ethics topics."
+    },
+    {
+        "question": "Can you describe the curriculum of the Software Management program?",
+        "ground_truths": "The Software Management program includes courses on software project management, quality assurance, and software design patterns."
+    },
+    {
+        "question": "How does the Data Informatics program differ from the Information Systems program?",
+        "ground_truths": "The Data Informatics program focuses on data analysis and machine learning, while the Information Systems program emphasizes the design and management of information systems."
+    },
+    {
+        "question": "What are the prerequisites for enrolling in the Big Data course?",
+        "ground_truths": "Prerequisites typically include knowledge of database systems and programming proficiency."
+    },
+    {
+        "question": "Why is statistics a prerequisite for the Data Science program?",
+        "ground_truths": "Statistics is essential for data analysis and interpretation, which are core components of the Data Science program."
+    },
+    {
+        "question": "If I have a background in psychology, which courses would help me transition into cognitive science?",
+        "ground_truths": "Courses like 'Functional Neuroanatomy' and 'Artificial Intelligence for Cognitive Science' would be beneficial."
+    },
+    {
+        "question": "Which courses cover both cloud computing and cybersecurity?",
+        "ground_truths": "The 'Cloud Computing: Technology and Business' course addresses aspects of both cloud computing and cybersecurity."
+    },
+    {
+        "question": "What courses are available for someone interested in data engineering?",
+        "ground_truths": "Courses such as 'Data Engineering' and 'Big Data' are available."
+    },
+    {
+        "question": "What is the focus of the 'Machine Learning for Multimedia' course?",
+        "ground_truths": "This course focuses on applying machine learning techniques to multimedia data, including images, audio, and video."
+    },
+    {
+        "question": "Are there any courses that teach both data mining and social network analysis?",
+        "ground_truths": "Yes, the 'Social Network Analysis' course covers data mining techniques applied to social networks."
+    },
+    {
+        "question": "What courses should I take if I'm interested in digital transformation?",
+        "ground_truths": "Courses like 'Digital Transformation: Management, Technology and Organization' are recommended."
+    },
+    {
+        "question": "What are the core courses in the Software Management M.S. program?",
+        "ground_truths": "Core courses include 'Software Project Management', 'Software Quality Management', and 'Software Design Patterns'."
+    },
+    {
+        "question": "Can I take courses from other universities as electives in the Cybersecurity program?",
+        "ground_truths": "With advisor approval, you may take courses from other institutions as electives."
+    },
+    {
+        "question": "What programming languages are taught in the Data Science program?",
+        "ground_truths": "The program emphasizes languages like Python and R for data analysis."
+    },
+    {
+        "question": "Are there any courses focused on blockchain technology?",
+        "ground_truths": "Yes, the 'Blockchain and Cryptocurrencies' course covers blockchain technology."
+    },
+    {
+        "question": "What courses are available for someone interested in artificial intelligence?",
+        "ground_truths": "Courses such as 'Transformers' and 'Deep Learning' are available."
+    },
+    {
+        "question": "What courses are offered in the Medical Informatics program?",
+        "ground_truths": "Courses include 'Biological Signal Analysis' and 'Fundamentals of Medical Imaging'."
+    },
+    {
+        "question": "Which courses cover both machine learning and ethics?",
+        "ground_truths": "The 'Research Methods and Ethics' course addresses ethical considerations in machine learning."
+    },
+    {
+        "question": "Are there any courses that focus on Internet of Things (IoT)?",
+        "ground_truths": "Yes, the 'COMPUTER NETWORKING FOR IS' course covers IoT technologies and applications."
+    },
+    {
+        "question": "Can you recommend courses that teach big data technologies?",
+        "ground_truths": "Courses such as 'Big Data' and 'Cloud Computing: Technology and Business' are recommended."
+    },
+    {
+        "question": "What are the elective options in the Cybersecurity program?",
+        "ground_truths": "Elective options include 'Network Security', 'Cryptography', and 'Ethical Hacking'."
+    },
+    {
+        "question": "Is there a course that combines data science and business analytics?",
+        "ground_truths": "Yes, the 'Data Driven Organizations' course integrates both areas."
+    },
+    {
+        "question": "What courses should I take if I'm interested in natural language processing?",
+        "ground_truths": "Courses like 'Deep Learning for Text Analytics' and 'Introduction to Probabilistic Programming' are recommended."
+    },
+    {
+        "question": "Are there any courses focused on deep learning?",
+        "ground_truths": "Yes, the 'Foundations of Deep Learning' and 'Deep Learning: Methods and Applications' courses are available."
+    },
+    {
+        "question": "What are the core courses in the Information Systems M.S. program?",
+        "ground_truths": "Core courses include 'Introduction to Information Systems' and 'Information Systems Project'."
+    },
+    {
+        "question": "Can I take online courses as part of the Data Informatics program?",
+        "ground_truths": "Yes, certain courses are available online; please consult the program's course offerings."
+    },
+    {
+        "question": "What courses are available for someone interested in multimedia informatics?",
+        "ground_truths": "Courses like 'Multimedia Signal Processing' and 'Machine Learning for Multimedia' are available."
+    },
+    {
+        "question": "Is there a course that covers both data engineering and data analytics?",
+        "ground_truths": "Yes, the 'Data Engineering' course addresses both topics."
+    },
+    {
+        "question": "What programming languages are taught in the Cognitive Science program?",
+        "ground_truths": "The program includes courses that utilize languages like Python and R for computational modeling."
+    }
+]

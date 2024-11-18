@@ -1,0 +1,13 @@
+{
+    "Course Code": "9100508",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cyber Security",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe aim of this course is to give the fundamental concepts of cryptanalysis. The student is expected to acquire the knowledge of how to design and analyze block ciphers, stream ciphers and hash functions.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesAt the end of the course the student is expected to-  Evaluate security of ciphers and hash functions by applying differential and linear cryptanalysis and their variants- Estimate success probability, data complexity, time complexity and memory complexity of attacks",
+    "Course Content": "Time complexity. Random variables. Cryptanalysis of historical ciphers. Frequency analysis. Differential cryptanalysis and its variants. Success probability and data complexity estimations. Linear cryptanalysis and its variants. Birthday paradox. Password cracking. Attacks on discrete logarithm and factorization problems."
+}

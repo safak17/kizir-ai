@@ -1,0 +1,13 @@
+{
+    "Course Code": "9020514",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cognitive Sciences",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe major goal of this course is to introduce machine learning and its applications as a research methodology at the intersection between natural and artificial cognitive systems. The students will learn to process data for building machine learning models and gain understanding of how machine learning algorithms work.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesThe course curriculum covers the fundamental topics in machine learning, including supervised learning, linear models, Bayesian decision theory, decision trees, neural networks, collaborative filtering and their applications in subdomains of cognitive science, including natural language processing and vision The students will be able to design and run machine learning models by using the knowledge gained during the lectures.",
+    "Course Content": "Machine learning and its applications as a research methodology at the intersection between natural cognitive systems and artificial cognitive systems. Supervised learning, Bayesian decision theory, decision trees, multilayer perceptrons. Applications in subdomains of cognitive science, including natural language processing, vision and models of human learning."
+}

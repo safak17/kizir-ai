@@ -1,0 +1,13 @@
+{
+    "Course Code": "9100519",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cyber Security",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe aim of this course is to give the fundamental concepts of blockchain and cryptocurrency technologies and introduce to students cryptographic foundations of these technologies, integrity and security of blockchains, anonymity in blockchains, and emerging topics in blockchains.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesAt the end of the course the student is expected to learn: the fundamentals of blockchain technology, digital signature algorithms used in blockchains, security of blockchains, attacks, and zero-knowledge protocols used for anonymity in blockchains.",
+    "Course Content": "This course introduces the cryptographic foundations of blockchain and cryptocurrency technologies that are used for the security, integrity, and anonymity: digital signatures, cryptographic hash functions, multi signatures, and zero-knowledge protocols. Cryptocurrency mining algorithms and their security will be analyzed with an emphasis on popular cryptocurrencies. Consensus models, smart contracts, non-fungible tokens (NFTs), and emerging topics will be presented."
+}

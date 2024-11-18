@@ -1,0 +1,13 @@
+{
+    "Course Code": "9100520",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(2-1)",
+    "ECTS Credit": "8.0",
+    "Department": "Cyber Security",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course Syllabus",
+    "Course Content": "This course teaches the fundamentals of embedded security with real-life implementations. In the first half of the course, students learn how to efficiently implement cryptography on embedded devices, using a microcontroller or an FPGA depending on the student s background. This first half includes security module implementations, which is solved during the lab time. In the second half of the course, threats against and techniques to attack embedded systems (e.g., side-channel analysis) are presented. The implementations from the first half part one are practically attacked with the introduced methods. At the end of the course, countermeasures against the types of attacks introduced in the second half will be briefly discussed and demonstrated. During the course, students will learn to use oscilloscopes and other tools used for security analyses."
+}

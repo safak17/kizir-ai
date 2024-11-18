@@ -1,0 +1,13 @@
+{
+    "Course Code": "9050517",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Software Management",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesBy the end of the course the students are expected to acquire knowledge and skills onMeasurement and estimation in software engineering and why we need to measureMeasurement models and scale typesGoal-Question-Metric approachInternal and external product attributes and base and derived metrics for themHow to collect and validate dataPerformance, cost, effort measurementOther metrics for the phases of software development life cycle",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesBy the end of this course the students will be able tospecify appropriate metrics for software processes, products and resourcesapply these metrics to systems and software development projectsinitiate and maintain a measurement project in software projectsidentify size, effort and schedule of software project along with the other measuresunderstand what would be the best to measure in software projects while dealing with limited resources",
+    "Course Content": "Techniques of measurement within the context of software quality engineering and software project management are addressed. Metrics and quality are presented in relationship to the software process and software process maturity models. Selection of quality and project metrics is addressed in terms of the goal/question/metric paradigm as well as various quality models. Methods of storing data for historical purposes, analyzing and presenting data to others are also discussed included."
+}

@@ -1,0 +1,13 @@
+{
+    "Course Code": "9100525",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cyber Security",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesSince this is a legal course, lectures and exams will be in Turkish.Materials for this course will be both in Turkish and English.By the end of this course, students will learn the legal domain for digital privacy in Turkey and the EU. (Both Personal Data Protection Law and General Data Protection Regulation will be covered.) Students will be able to make their designs, develop systems or business methods in compliance with principles stated in PDPL and GDPR. Also, they will know when they may need professional legal assistance.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning Outcomes1. Digital Privacy in Information Age. Why do we need privacy and how can we protect our privacy?2. Key Terminology for GDPR and Personal Data Protection Regulation3. Principles relating to the processing of personal data4. Lawful processing of personal data5. Conditions of consent6. Conditions of Data Transfer7. Rights of the Data Subjects8. Supervisory authority9. Remedies, Liabilities, and Penalties due to GDPR and PDTL (Personal Data Protection Law - KVKK)10. Turkish Penal Code and Digital Privacy11. Intellectual Property Rights in Cyber Space",
+    "Course Content": "This course will provide students a legal approach about information privacy, communication privacy and individual privacy. Students will study privacy from philosophical, historical, legal, policy, and technical perspectives and learn how to engineer systems for privacy. In addition, students will be provided with a basic knowledge about contracts and Intellecual Property issues for cybersecurity experts."
+}

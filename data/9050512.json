@@ -1,0 +1,13 @@
+{
+    "Course Code": "9050512",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Software Management",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Prof.Dr. ONUR DEMÝRÖRS",
+    "Offered Semester": "Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThis course is designed as an entry level Java programming and data structures course for students who doesn't have prior programming experience.Course is composed of two parts, Object Oriented Programming and Data Structures.In the first part, an introduction to object oriented programming is given. Students will learn  Java programming language and will be able to write code to solve basic programming problems.Second part is about algorithms and data structures. Students will learn the commonly used ways to represent data in the computer like arrays, trees, linked-lists, hash tables, stacks and queues. An introduction to asymptotic algorithm analysis will be given. Students will learn examples of sorting algorithms and be able to insert, delete, search and process data.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudent, who passed the course satisfactorily will be able to:Write basic level of Java programming language codesDesign object oriented solutions for simple problemsUnderstand asymptotic algorithm analysis and Big Oh notationHave understanding for basic data structures like arrays, lists, trees, hash tables, stacks, queues etc.",
+    "Course Content": "The basic object oriented principles will be discussed using a modern programming language i.e. Java. The theory will be used in practice to implement data structures which is very important in algorithm development."
+}

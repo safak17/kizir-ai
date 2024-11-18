@@ -1,0 +1,13 @@
+{
+    "Course Code": "9020522",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cognitive Sciences",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Lecturer Dr. CEYHAN TEMÜRCÜ",
+    "Offered Semester": "Once in several years.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesUpon successful completion of this course, each student should:distinguish utterances from sentencesidentify morphemes, lexemes, content words and function words in a given textundesrtand basic semantic relations, including homonymy, synonymy, polysemy, metaphor, metonymy, hyponymy, vagueness and inheritence, ambiguity, vagueness and polysemy,undesrtand the extend and possible limits of compositionality in natural language,know about different views on linguistic categorizationclassify events as to theişr inherent temporal informationknow the linking problem in verb semantics",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesUpon successful completion of this course, each student should be able to:describe the subject matter of lexical semantics,characterize and illustrate the following foundational notions: utterance, sentence, word, morpheme, lexeme, content word, function word, lexical meaning, grammatical meaning,define and exemplify basic lexical relations, including homonymy, synonymy, polysemy, metaphor, metonymy, hyponymy, vagueness and inheritence,characterize and distinguish among ambiguity, vagueness and polysemy,define argument structure and event structure,define compositionality and mention basic challenges to it,contrast the classical view of categorization with the prototypes view,provide a basic classification of event types,state the linking problem in verb semantics,characterize different approaches to polyfunctionality,state how transformational and monostratal models of grammar differ in approaching the lexiconexplain the notions of 'coercion' and 'cocomposition' in Pustejovsky's generative lexicon.",
+    "Course Content": "Lexical relations, approaches to meaning components (binary features, logical decomposition, semantic primitives), lexical organization (categorization, prototypes, metaphor, metonymy, semantic maps), lexical meaning and compositionality, verb semantics (event classification, event structure, argument structure, linking problem), lexicon in computational theories of grammar, close up on Pustejovsky s generative lexicon."
+}

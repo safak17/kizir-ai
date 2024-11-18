@@ -1,0 +1,13 @@
+{
+    "Course Code": "9100502",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(0-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cyber Security",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThis course aims to give students:comprehension of security concepts related to networking,the ability to assess security threats in a networked environment,experience with the tools and methods to counter said threats,an understanding of the relevant cryptographic techniques, and,familiarity with specialized fields such as network forensics, anonymity mechanisms etc.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesThe students are expected to have theoretical and applied knowledge about network security concepts.",
+    "Course Content": "This course will cover fundamentals of network security. The course provides a strong foundation in network security. The following topics are covered: encryption techniques, key management and authentication, hashing, public key cryptography, web security, TCP/IP, DDoS attacks, DNS security."
+}

@@ -1,0 +1,13 @@
+{
+    "Course Code": "9020543",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cognitive Sciences",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe student is expected to have a basic understanding of:- the computational problem of mapping text to formal meaning representations affording logical reasoning;- how this problem can be solved with a syntax-driven perspective, in a surface-compositional and incremental manner;- how the same problem can be addressed through state-of-art empirical methods involving machine learning and probabilistic methods.- how the two approaches can be combined.The student is also expected to be able to apply the knowledge resources mentioned above to various applications in computational semantics including information extraction, question-answer systems, summarization, machine translation, conversational agents, among others.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning Outcomes- You will be able to use predicate calculus to model some aspects of linguistic meaning.- You will be able to formalize how a well-formed linguistic expression gets coupled with such a representation of meaning.- You will be able to write computer programs that does the above.- You will be able to apply machine learning and probabilistic methods and software packages to some semantic problems.- You will be able to understand how syntax-based methods to understanding language can be coupled with data-driven methods.",
+    "Course Content": "Mapping natural language texts to formal meaning representations syntax type driven semantic analysis, quantifier scope, long distance dependencies, word sense disambiguation, semantic role labeling, machine learning and distributional approaches to semantics."
+}

@@ -1,0 +1,13 @@
+{
+    "Course Code": "9050704",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Software Management",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesBy the end of the course the students will knowThe basic concepts of SOA and web servicesThe standards related to web servicesDifferent architectural design approaches to develop enterprise applications",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesBy the end of the course the students will gain the ability toapply process and data integration techniques to develop SOA based applicationsapply REST architecture design, develop and test web services",
+    "Course Content": "This course introduces the basic concepts, principles, and techniques for service-oriented architectures (SOA)and Web services, specifically SOAP and RESTful web services. Primary topics include design and implementation of SOA based applications, development frameworks, service composition, data integration techniques, and deployment of service providers and consumers. Relevant topics such as web service security, cloud computing, BPM and blockchain are also covered."
+}

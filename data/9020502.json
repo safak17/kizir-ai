@@ -1,0 +1,13 @@
+{
+    "Course Code": "9020502",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cognitive Sciences",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Prof.Dr. HÜSEYÝN CEM BOZÞAHÝN",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe course aims to develop basic skills in mathematical abstraction, symbolic logic, and programming.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesBy the end of the semester, a successful student is expected to be able to:- understand the basics of computers, computation and programming languages.- make and understand basic mathematical abstractions involving sets, relations and functions.- understand the concepts and techniques in symbolic computation/programming.- write Lisp programs with both functional and procedural perspective.- apply lambda calculus to computational tasks.",
+    "Course Content": "Sets, relations and functions. Propositional and predicate logic. Truth, validity, and models. Deduction and inference methods. Logic programming. Specification and construction of  PROLOG programs. Various data structures and predicates of PROLOG."
+}

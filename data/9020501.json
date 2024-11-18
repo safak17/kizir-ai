@@ -1,0 +1,13 @@
+{
+    "Course Code": "9020501",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cognitive Sciences",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Prof.Dr. HÜSEYÝN CEM BOZÞAHÝN",
+    "Offered Semester": "Fall Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesPLEASE VISIT THE COURSE WEBSITE AND COME TO THE FIRST HOURTHE INFORMATION HERE IS OUTDATEDThe course is an introduction to two foundational concepts in cognitive science: structural representations and computation. As empirical domain, we look at increasingly complex structural representations from morphology and syntax of natural languages. We couple this with an introduction to the theory of computation. We aim to establish that (i) human language capacity is (based on) a computationally describable unconscious system of rules and representations; (ii) that there are mathematically precise ways of talking about differenttypesof structural relations; and (iii) that bringing these two together opens up new avenues in the cognitive scientific investigation of language.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesBy the end of the semester, a successful student is expected to be able to:- construct and understand basic morphological and syntactic analyses of natural languge structure.- appreciate the structure dependent nature of human languages and how this is studied from a computational perspective.- construct automata, write regular expressions, construct grammars for computational tasks.- understand the complexity classes of formal languages, and their relation to automata- appreciate the close links between language, cognition and computation.",
+    "Course Content": "Natural language and linguistic knowledge. Language and grammar. Morphology. Syntax and grammatical structure. Semantics: Word meaning and grammatical meaning. Regular expressions and regular grammars. Push-down automata. An introduction to Parsing and derivation."
+}

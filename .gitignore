@@ -1,1 +1,3 @@
 .DS_Store
+rag/faiss_index/*
+rag/models/*

@@ -1,0 +1,13 @@
+{
+    "Course Code": "9020595",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cognitive Sciences",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "",
+    "Offered Semester": "Fall or Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesAim: to examine the current state and future prospects of affect in computing and cognition.Itemized objectives from the perspective of student:- Attain knowledge in neuroanatomical correlates of emotions- Learn several aspects of affect such as sensation, representation, expression- Develop skills about quantifying emotions/affect through behavioral/physiological measures- Study the current state-of-art applications in this newly emerging field",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesBy the end of this course students develop theoretical understanding of the field of affective computing and learn hands-on skills for quantifying emotions.Theoretical understanding includes:- Physiological underlay of emotions in the brain- Emotion classification approaches: category based classification versus dimension based classification- Role of emotions in goal oriented action and executive decision making- Emotional modelsHands-on skills include:- Facial expression recognition from camera or EMG recordings- Stress recognition from eyetrack or skin conductance recordings- Sentiment analysis in verbal communication",
+    "Course Content": "Definition of systems in the brain involved in the processing of affect. Fundemental physiological constructs underlying the sensation, representation and expression of affect. Emotional frameworks and models at our times, consisting of agents, neural networks and logic propositions. Expression of affect in computing such as in face, prosody, gesture or text processing. Emotions in human computer interfaces, game technology. Practical hands-on experience with skin conductance and startle eyeblink measures."
+}

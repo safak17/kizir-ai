@@ -7,7 +7,7 @@ import pandas as pd
 import json
 
 
-PROGRAMS = [901, 904, 906, 908, 909, 911]
+PROGRAMS = [901, 902, 903, 904, 905, 906, 908, 909, 910, 911]
 SUFFIX = "all_courses.csv"
 PROGRAMS = [os.path.join("data", f"{prog}_{SUFFIX}") for prog in PROGRAMS]
 SEPARATOR = "$"

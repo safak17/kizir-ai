@@ -1,8 +1,9 @@
 import csv
 import re
 import requests
+import os
 
-PROGRAMS = [901, 904, 906, 908, 909, 911]
+PROGRAMS = [901, 902, 903, 904, 905, 906, 908, 909, 910, 911]
 
 CSV_HEADERS = ["Semester", "Program Code", "Program Short Name", "Course Code", "Course Name", "Credit", "ECTS Credit", "Course Section", "Capacity", "Day1", "Start Hour1", "End Hour1", "Instructor Name", "Instructor Title"]
 
@@ -132,7 +133,9 @@ def main():
             valuesWithHeaders = makeDict(headers, values)
             csv_data = convertDictToCSV(valuesWithHeaders)
             course_data.append(csv_data)
-        saveToCSV(course_data, f"{program}.csv")
+        
+        filename = os.path.join("data", f"{current_semester}-{program}.csv")    
+        saveToCSV(course_data, filename)
 
 
 if __name__ == "__main__":

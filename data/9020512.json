@@ -1,0 +1,13 @@
+{
+    "Course Code": "9020512",
+    "METU Credit (Theoretical-Laboratory hours/week)": "3(3-0)",
+    "ECTS Credit": "8.0",
+    "Department": "Cognitive Sciences",
+    "Language of Instruction": "English",
+    "Level of Study": "Graduate",
+    "Course Coordinator": "Assist.Prof.Dr UMUT ÖZGE",
+    "Offered Semester": "Fall and Spring Semesters.",
+    "Course Objectives": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse ObjectivesThe student is expected to:devise formal representations regarding a cognitive task or phenomenon;devise an algorithm addressing the cognitive task using the proposed representations;be able to assess the complexity of the algorithm and possible ways of improving and/or testing the algorithm;gain knowledge and insight into how algorithmic approaches to cognition relate to broader philosophical and empirical issues in cognitive science.",
+    "Course Learning Outcomes": "<meta http-equiv=\"refresh\" content=\"0; URL=noscript.html\">METU | Course SyllabusCourse Learning OutcomesStudent, who passed the course satisfactorily will be able to:assess the complexity of standard algorithms employed in cognition;formally represent a given cognitive task, so that an algorithmic solution to the task is possible;propose an algorithmic solution to a formally represented cognitive task;write a computer program that implements a given/constructed algorithm;differentiate between different levels of analysis in approaching a cognitive problem (algorithm, procedure, process, functional architecture, hardware, and so on);assess the scientific and philosophical significance of computation in studying cognition.",
+    "Course Content": "Algorithmic approaches to the study of cognition; how cognition differs from other computational problem domains; issues of representation in cognition; search and constraint propagation in cognition; issues of algorithmic complexity in cognition; issues of computational architecture in relation to representation and algorithms in cognition; philosophical issues concerning the computational and representational theories of mind."
+}
