@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import os
 
 DATA_PATH = os.path.join("..", "data", "courses")
-filepath_content = os.path.join(DATA_PATH, "ii_courses.txt")
-filepath_titles = os.path.join(DATA_PATH, "ii_titles.txt")
+filepath_content = os.path.join(DATA_PATH, "is_courses.txt")
+filepath_titles = os.path.join(DATA_PATH, "is_titles.txt")
 
 
 url = "https://ii.metu.edu.tr/information-systems-msphd"
