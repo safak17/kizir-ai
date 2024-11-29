@@ -1,0 +1,93 @@
+
+
+Introduction
+
+Software Management is the first MS program established in Turkey to target specialized software domain knowledge. The objectives of this program are to lead the advancement of software practice in Turkey, to disseminate the domain knowledge on principles, processes, methods and techniques required to manage the development and evolution of software systems, and to bring forth experts and scientists in this field.
+
+Program Aims
+
+Software has become the driving force behind most of the new military and commercial Technologies and many business renovations. The complexity as well as application areas of software systems are rapidly growing. Increasing demand for software in diverse domains and in larger sizes requires the establishment and use of sound management, design and production principles in order to develop, manage and evolve software that has the desired functionality, is reliable, cost effective and developed on time.The program targets professionals in the field. The students in the program will gain the ability to systematically define and use the knowledge on software development processes, methodologies, techniques and metrics. The program offers courses on software project management, software quality management, software acquisition management, requirements analysis, software architectures and design, software testing, human computer interaction, and software operations and maintenance. For students to gain necessary experience, design and implementation are seen as an integral part of all courses. Students are also involved in a realistic team project to integrate the knowledge and experience built up in specialized courses.
+
+Program Structure
+
+Software Management non-thesis master’s program consists of ten three-credit courses (four core and six elective courses), a non-credit term project and a non-credit graduate seminar course. The program requirements must be fulfilled in at most five semesters (three semesters for regular program and two semesters for deficiency program; during the deficiency program, core/elective courses can be taken.).
+Program Outcome
+
+Till the completion of the program, it is aimed that a student of Software Management program will have the following knowledge, skills and behaviors.
+Knows and implements principles, processes, methods, techniques and standards necessary for software acquisition, development, management, and evolution.
+Defines and employs systematically business processes in general, specifically software development processes, methods, techniques and measurements. The graduate can evaluate these processes rationally and systematically for their improvements.
+Identifies problems in software system development, management and evolution; analyzes and provides solutions to them.
+Follows both the academic and the industry developments and practices in software engineering, evaluates them critically.
+Manages ICT, especially software engineering, projects and research projects.
+Decides and applies research methods to address problems in informatics domain, especially software engineering domain. The graduate can conduct theoretical, experimental or applied research.
+Systematically evaluates and distills experiences during the process of designing and developing software systems; applies them to other projects.
+Produces innovative ideas and products in the field of IT applications and services.
+Works effectively both independently and in multi-disciplinary teams as a team member or leader.
+Pays attention to ethical values and applies them at her professional and scientific studies.
+Presents the recent developments in the field and their work, by supporting with qualitative and quantitative data effectively in written and spoken English and Turkish.
+
+Application Requirements
+Application requirements for Graduate School of Informatics
+
+Career Prospects
+
+The graduates of Software Management M.S. program:
+Work as software engineer, information system researcher, expert and consultant, system analyst, software and system project manager
+Are employed by institutions who acquire, develop and maintain software systems
+Are entrepreneurs who establish companies that produce innovative services and products in the software and information system domain
+Pursue their careers as a scientist in any field of IT especially software engineering
+Are preferred by software systems research units of organizations
+Are preferred by information technology, telecommunications, defense, health, automotive, banking industries for the positions that require expertise in software engineering
+Are promoted to management positions in software developing organizations due to their scientific approaches and rational, systematic evaluations.
+
+Courses
+
+Classes mostly start at 18:00 to facilitate attendance of the working students.
+
+Deficiency courses (To be completed in at most 2 semesters)
+SM 591 Software Management Primer I (1 credit)
+SM 592 Software Management Primer II (1 credit)
+Core courses (All should be taken)
+SM 502 Software Management
+SM 503 Object Oriented Software Development
+SM 504 Team Software Project (Should be taken after SM 502 and SM 503 are taken)
+SM 892 Special Studies (Non-credit, should be taken each semester after 6 courses (or 18 credits) are taken in total)
+SM 590 Graduate Seminar (Non-credit, should be taken in the same term SM 589 is taken.)
+SM 589 Term Project (Non-credit)
+
+Elective Courses (At least 7 courses should be taken)
+
+Up to 3 elective courses can be taken from other Evening Master Programs in METU to replace the courses given in this list with the approval of advisor. 
+SM 501 Personal Software Process
+SM 511 Software Process Improvement
+SM 512 Object Oriented Programming and Data Structures
+SM 514 Introduction to Software Testing
+SM 515 Software Verification and Validation
+SM 517 Software Metrics
+SM 519 Acquisition of Software Intensive Systems
+SM 521 Software Requirements Engineering
+SM 522 Agile Software Development
+SM 523 Software Design Patterns
+SM 525 Software Product Line Management
+SM 526 Secure Software Development
+SM 527 Security Engineering
+SM 528 Software Architecture
+SM 530 Social Network Analysis
+SM 547 Model Based Systems Engineering
+SM 548 Computer Systems for Programmers
+SM 549 IT Governance
+SM 561 Introduction to Software Engineering
+SM 701 Special Topics in SM: Contemporary Issues in Management
+SM 702 Peopleware
+ 
+
+Links
+
+SM Courses
+FAQs on Software Management MS Program
+Software Management Related Links
+Graduate School of Informatics-Application Criteria
+
+Contact for Admissions
+Turkish Students: Ayşe Nur Özdere Yüksel| A Block, Z-16| Tel: 0312 210 3740 | email: aozdere@metu.edu.tr
+Foreign Students: Buket Barış| A-113| Tel: 0312 210 7781 | email: bbaris@metu.edu.tr

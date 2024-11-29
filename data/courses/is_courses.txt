@@ -1,0 +1,138 @@
+
+Information Systems program aims to encourage the use and development of information systems to improve the conditions of the society and to contribute to the scientific and technological developments. To accomplish these goals, it welcomes graduates from different disciplines to meet the interdisciplinary graduate needs of the academia and public and private sectors; simultaneously pursues research and technology development among different disciplines. With the pervasiveness of information systems, the program serves all sectors, from business to defense, and students have a choice of conducting research in a multitude of areas.We have the following specialization options. Note that the same courses can be taken under different specialization options.
+Data science
+Digital transformation
+Software Technologies and Management
+Management Information Systems
+Information and Communication Technologies
+
+The complete list of the courses offered by the Information Systems department can be found at course catalog. Students can also enroll in courses offered by the other departments at METU provided that their advisors approve. Students are welcome to select electives from different specialization tracks.A common academic basis for incoming students is achieved via deficiency courses. Students are expected to finish the deficiency courses within a maximum of one year. The deficiency courses of the program are:
+IS 503 Database Concepts and Applications / CENG 302
+IS 504 Comp. Networking for Information Systems /  CENG 435 / EE 444 /CENG530
+IS 507 Introduction to Software Engineering / CENG 350
+IS 545 Object Oriented Programming and Data Structures / MIN 545/OOP (Ex. BIN 500 or CENG 305) + (EE 441 or CENG 301)
+IS 500 Contemporary Issues in Business / BA 1101
+Those who have already taken equivalent courses, can get exemption according to the rules determined by Information Systems academic committee.The main program includes three courses with credit:
+IS 501 Introduction to Information Systems 
+IS 502 Information Systems Project / DI 502
+IS 520 Research Methods in Information Systems / CEIT 520 (Only Thesis Programs)
+In addition to the four courses without credit:
+IS 589  MSc Project (to be taken by MSc non-thesis students)
+IS 590  Graduate Seminar (Only Thesis Programs)
+IS 599  MSc Thesis (to be taken by MSc thesis students)
+IS 699  PhD Thesis (to be taken by PhD students)
+
+
+Program Structure
+MSc Course Load -  Thesis Option
+3 Core
+IS 590 Graduate Seminar
+IS 599 MSc Thesis
+4 Elective Courses
+MSc Course Load -  Non-Thesis Option
+2 Core (IS 501 and IS 502 / DI 502)
+IS 589 Term Project
+8 Elective Courses
+PhD Course Load
+3 Core
+IS 690 Graduate Seminar
+IS 699 PhD Thesis
+4 Elective Courses
+Information Systems Doctoral Qualifying Exam (DYS) Principles
+
+Specialization Tracks
+Data Science Specialization Track Elective Courses from Informatics Institute
+Big Data
+Cloud Computing: Technology and Business
+Knowledge, Discovery and Mining
+Social Network Analysis
+Social Media Analytics
+Machine Learning
+Deep Learning: Methods and Applications
+Mobile and Pervasive Computing
+Energy Informatics
+Software Architecture
+Object-Oriented Analysis and Design
+Image Processing Algorithms
+Applications of Audio Information Systems
+Foundations of Deep Learning
+Data Driven Organizations
+Deep Learning for Text Analytics
+Sequence Models in Multimedia
+Machine Learning Systems Design and Deployment
+Reinforcement Learning
+Artificial Intelligence for Cognitive Science
+Introduction to Probabilistic Programming
+Probabilistic Models of Cognition
+Multimedia Signal Processing
+Multimedia Standards
+Biological Signal Analysis
+
+Digital Transformation Specialization Track Elective Courses from Informatics Institute
+
+Digital Transformation: Management, Technology and Organization
+Innovation Management
+Decision Support Systems
+Energy Informatics
+E-Transformation and Management
+Contemporary Socio-Technical Perspectives In Information Systems
+Regulatory and Legal Aspects Of Information Systems
+Big Data
+Cloud Computing: Technology and Business
+Social Network Analysis
+Social Media Analytics
+Mobile and Pervasive Computing
+Information Security Management
+Technology Entrepreneurship and Lean Startups
+Mobile Business
+Software Project Management
+
+Software Technologies & Management Specialization Track Elective Courses from Informatics Institute
+Software Architecture
+Software Project Management
+Software Design Patterns
+Introduction To Software Testing
+Software Quality Management
+Software Verification
+Object-Oriented Analysis and Design
+Formal Verification-Theory and Practice
+Business Process Management
+Systems Engineering
+
+Management Information Systems Specialization Track Elective Courses from Informatics Institute
+Information Systems In Organizational Design and Applied Systems Thinking
+Information Technology Acceptance In Organisations
+Contemporary Socio-Technical Perspectives In Information Systems
+Digital Transformation: Management, Technology and Organization
+Information Security Management
+E-Transformation and Management
+Innovation Management
+Decision Support Systems
+Regulatory and Legal Aspects Of Information Systems
+Technology Entrepreneurship and Lean Startups
+Mobile Business
+Software Project Management
+
+Information and Communication Technologies Specialization Track Elective Courses from Informatics Institute
+
+Computer Networking Applications
+Security Engineering
+Human Computer Interaction
+Introduction to Modeling & Simulation (M&S) Concept
+Image Processing Algorithms
+Applications of Audio Information Systems
+Big Data
+Cloud Computing: Technology and Business
+Social Media Analytics
+Mobile and Pervasive Computing
+Software Architecture
+Object-Oriented Analysis and Design
+Information Security Management
+Mobile Business
+Application Requirements
+Application requirements for Graduate School of Informatics
+
+
+Contact for Admissions
+Turkish Students: Ayşe Nur Özdere Yüksel| A Block, Z-16| Tel: 0 (312) 210 3740| email: aozdere@metu.edu.tr
+Foreign Students: Buket Barış| A-113| Tel: 0 (312) 210 7781| email: bbaris@metu.edu.tr 

@@ -1,0 +1,48 @@
+
+Cyber Security Website
+Introduction
+
+Over the past decades, developments in information technology have changed the way we live, and at an unprecedented rate. This has led to countless new possibilities, as well has introducing new risks. The benefits have been so great that computers have permeated all areas of life, and reliance on complex, interconnected computer systems has constantly increased. Business, communication, finance, energy, health, governance, intelligence, defense, and even entertainment: we depend on computers for everything. Digital data stores hold state secrets, industrial secrets and intimate personal secrets alike. Thus, compromising the security of computers has become equivalent to compromising the security of states, businesses, and individuals.
+As a student of the M.S. Program in Cybersecurity, you will develop an understanding of what security is, and how it can be achieved. You will learn about ways in which the security of computer systems can be compromised, and what countermeasures can be taken to prevent this.
+They say with great power comes great responsibility. There is no question that computers have granted us powers that were previously unimaginable. As a student of cybersecurity, you will learn to wield this power, and to carry the responsibility that comes with it. You will become proficient at getting computers to do what you want, and you will learn how to prevent others from abusing those same abilities. In doing so, you will acquire the skills needed to ensure that future generations can look back to the dawn of the computer revolution, and remember it as a good thing.
+Program Aims
+
+Cybersecurity is a chain that is only as strong as its weakest link. This makes specializing in cybersecurity somewhat different than other fields. In order to evaluate or assure the security of a system you need to know how individual components work at a fundamental level, and you need to know how these come together to form the system. Developing a system to perform a specific function is hard. Ensuring that it only performs that specific function as expected and nothing else is much harder. The CSEC M.S. program is designed to empower its students with the skills needed to successfully deal with this complexity.
+Absolute security is not attainable. The student is taught how to approach the problem of coming up with meaningful security requirements and manage risks in a practical manner. Each student is expected to gain a comprehensive understanding of how diverse ideas and technologies come together to fulfill such requirements. The broad course offering allows students to go further and gain in-depth knowledge on constituent fields, such as cryptography and network security. Students are taught how security can be compromised in practice with hands-on training and lab work. They also learn what to do if a system they are responsible for is breached, taking mitigatory actions to alleviate the damage, and discovering what went wrong and what must be done to avoid it happening again. Moreover, they are taught about organizational security management and certification issues. As is the case with all Informatics Institute programs, CSEC M.S. also explores interdisciplinary such as the legal dimension of cybersecurity.
+The CSEC M.S. Program has both Thesis and Non-Thesis variants. In both cases, the students are given opportunities for partaking in cutting-edge academic research. A number of papers authored by CSEC students as part of their courses have been accepted to both national and international conferences.
+In summary, the CSEC M.S. Program aims to train the cybersecurity experts of the future, by giving them everything they need to go on to have successful careers, whether they choose to discover cutting-edge solutions to outstanding problems in cybersecurity through academic research, or they put these into use in safeguarding the actual security of people worldwide.
+Program Structure
+
+Must Courses
+
+
+All CSEC M.S. students are required to take the following two must courses: CSEC 501Cyber Systems and Information Security (INFOSEC)CSEC 502Network Security
+Course Catalog
+CSEC M.S. Non-Thesis
+Students must successfully complete two deficiency program courses CSEC 591 (CYBERSECURITY PRIMER I) and CSEC 592 (CYBERSECURITY PRIMER II). Non-Thesis students are required to complete 7 elective courses in addition to the 2 must courses. Furthermore, they are required submit a term project in order to graduate via CSEC589 Term Project. They are expected to complete the program within three semesters of enrollment.
+CSEC M.S. Thesis
+Students must successfully complete two deficiency program courses CSEC 591 (CYBERSECURITY PRIMER I) and CSEC 592 (CYBERSECURITY PRIMER II). Thesis students are required to complete 4 elective courses in addition to the 2 must courses. Furthermore, they are required to attend CSEC590 Graduate Seminar and CSEC500 Research Methods, Evaluation and Dissemination Ethics in Cyber Security (or an equivalent course). They are expected complete their thesis by the end of their sixth semester.
+
+Transfer from Non-thesis Program to Thesis Program
+
+Our department only accepts applications to non-thesis program. Students who successfully complete deficiency program courses and 7 program courses can apply to transfer to the Thesis program. Before such an application, students are expected to plan their thesis studies with a candidate thesis advisor in order to provide an abstract with their application. Applicants whose applications are accepted by the cyber security academic committee will be transferred to the thesis program.
+Application Requirements
+Application requirements for Graduate School of Informatics
+Career Prospects
+
+Cybersecurity experts are in extremely high demand worldwide. Graduates from the CSEC M.S. program will have an opportunity to choose from a large number of interesting career opportunities. These include, but are not limited to:
+Performing professional penetration tests and security assessment on real systems.
+Working on analyzing and containing the risk posed by malware.
+Working in software development with an emphasis on software security.
+Working on ensuring the security of consumer/industrial devices and equipment.
+Designing and implementing organizational information security systems.
+Working in risk management.
+Conducting academic research focusing on practical security issues.
+Conducting academic research focusing on theoretical concepts (e.g. cryptographic algorithms).
+Managing security certification process.
+
+Contact for Admissions
+
+Turkish Students: Hatice Bucak| A Block, Z-11| Tel: 0312 210 7861 | email: hbucak@metu.edu.tr
+Foreign Students: Buket Barış| A-113| Tel: 0312 210 7781 | email: bbaris@metu.edu.tr
+

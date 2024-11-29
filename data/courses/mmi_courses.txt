@@ -1,0 +1,47 @@
+
+Multimedia Informatics Website
+Introduction
+
+Multimedia technologies define the way we create, manipulate, search, access, and consume digital content. The advent in multimedia informatics made it possible to design audio and video compression methods (such as MP3 and MPEG-4), novel display technologies such as Oculus Rift, intelligent agents such as Siri, realistic 3D games such as Call of Duty, and novel interaction devices such as Kinect and Hololens. It is certain that the developments in the field will continue to define the way we interact with media content.
+As a student in this graduate program you will learn the techniques and tools that will enable you to develop the next cutting edge multimedia algorithm while working with world-class experts and collaborating with like-minded fellow students.
+
+Program Aims
+
+The primary aim of the MMI (GATE) M.Sc. program is to educate its students on state-of-the-art multimedia technologies including computer vision and audition, motion capture and tracking, affective computing, ambient intelligence, virtual/augmented realities, and game technologies. The program has a strong research component with a prominent interdisciplinary edge. The interdisciplinary aspects of the program are reflected not only in the academic backgrounds of the faculty who teach at the program but also by the diverse backgrounds of its students. The program consist of two tracks: multimedia computing (MMI-M) and game technologies (MMI-G). MMI-M track aims to build a strong background in multimedia technologies and to offer a diverse selection of courses that addresses the recent developments in the fields of audio processing, digital image processing, social signal processing, motion analysis, computer vision and machine learning. MMI-G track consists of game-related courses that cover the technical development aspects and design aspects of game development. The research and thesis work carried out by the students reflect novel and innovative aspects of cutting-edge research in game technologies. The program has strong collaboration and research links with other game technology labs as well as game technology industry in Turkey and abroad. The program is also supported by game companies in METU Technopolis as well as METUTECH-ATOM, the game technology pre-incubator in the METU Technopolis.
+
+Program Structure
+
+Students of both tracks are required to take a total of 6 technical courses as well as a course on scientific method. The students are also required to attend the non-credit Graduate Seminars series organised during the spring semester each year. Students enrolled in the MMI-G track are required to take the course MMI 505 (GATE 505) Game Development Pipeline. Students enrolled in the MMI-M track are required to take the course MMI 701 (GATE 701) Multimedia Signal Processing and MMI 702 (GATE 702) Machine Learning for Multimedia courses. Enrolled students are expected to finish their coursework in 2 years. The program is strongly research oriented. The main requirement for graduation is an M.Sc. thesis to be completed normally at the end of the third year.
+Application Requirements
+Application requirements for Graduate School of Informatics
+
+Career Prospects
+
+Graduates from the MMI-M (Multimedia Computing) track will have job opportunities in industries related to media technologies and entertainment industry as well as in other sectors involving both civilian and defense technologies. Graduates from the MMI-G track will have job opportunities in game techologies sector, primarily as developers. Graduates of both tracks will carry out cutting edge research in the area and will have a high level of employability.
+Courses
+MMI-M Track
+Multimedia Signal Processing
+Machine Learning for Multimedia
+Emotion Oriented Systems
+Communication Acoustics
+Motion Capture, Analysis and Synthesis
+Multimedia Standards
+Perceptual Computing and Multimodal Analysis
+MMI-G Track
+Game Development Pipeline
+Game Metrics
+Physics for Computer Games
+Procedural Sound Design
+Applied Parallel Programming on GPUs
+Game Aesthetics
+Augmented Reality
+
+Links
+
+Multimedia Informatics Website
+Leaflet about the Program
+
+Contact for Admissions
+
+Turkish Students: Hatice Bucak| A Block, Z-11| Tel: 0312 210 7861 | email: hbucak@metu.edu.tr
+Foreign Students: Buket Barış| A-113| Tel: 0312 210 7781 | email: bbaris@metu.edu.tr

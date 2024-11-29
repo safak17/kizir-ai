@@ -1,0 +1,50 @@
+The master's program consists of a deficiency program and the main program. All the courses listed below with the codes IS, DI, MMI, MI, COGS are offered by the Graduate School of Informatics. The deficiency program aims to ensure all admitted students have the necessary academic foundation. Students can be exempted from some of the deficiency courses with their advisors and the academic board's decision based on their previously taken courses and grades. The deficiency program can be completed in a maximum of two terms.
+Deficiency Courses: 
+IS 503 Database Concepts and Applications / CENG 302
+IS 545 Object Oriented Programming and Data Structures / MI 545
+DI 591 Probability and Statistics for Data Informatics / BIN 502 / CENG 222
+DI 592 Mathematics for Data Informatics
+The main program, as indicated below, consists of 2 compulsory and 5 elective courses that total to at least 21 credits along with non-credit thesis, research methods, and seminar courses: 
+2 credit and compulsory courses 
+At least 5 elective courses 
+DI 590 Seminar course
+DI 599 Thesis course
+DI 500 / MI 500 / CSEC 500 / COGS 500 Research Methods and Ethics
+Credit Compulsory Courses: 
+DI 501 / IS 509 Introduction to Data Informatics
+DI 502 Data Informatics Project
+Non-Credit Compulsory Courses: 
+DI 500 / MI 500 / CSEC 500 / COGS 500 Research Methods and Ethics
+DI 590 Seminar course
+DI 599 Thesis course
+In addition to the compulsory courses, students will be able to take the technical elective courses listed below to be counted towards the required credit hours: 
+Elective Courses:
+DI 504 / MMI 727 Foundations of Deep Learning
+DI 710 Data Engineering
+DI 722 Spatio-temporal Data Mining
+DI 725 Transformers and Attention-Based Deep Networks
+DI 728 Data Analytics Applications in Gaming and Entertainment
+MMI 701 Multimedia Signal Processing
+MMI 702 Machine Learning for Multimedia Informatics
+MMI 706 Reinforcement Learning
+MMI 711 Sequence Models in Multimedia
+MMI 712 Machine Learning Systems Design and Deployment
+MMI 714 Generative Models for Multimedia
+MMI 726 Multimedia Standards
+IS 535 Regulatory and Legal Aspects of Information Systems
+IS 547 Cloud Computing: Technology and Business
+IS 548 Mobile and Pervasive Computing
+IS 566 Image Processing Algorithms
+IS 577 Technology Entrepreneurship and Lean Startups
+IS 580 Data Mining and Knowledge Discovery
+IS 583 Social Media Analytics
+IS 584 Deep Learning for Text Analytics
+IS 585 Social Network Analysis
+IS 586 Data Driven Organizations
+IS 587 Big Data
+IS 768 Applications of Audio Information Systems
+IS 788 Digital Transformation: Management Technology and Organization
+COGS 515 Artificial Intelligence for Cognitive Science
+COGS 516 Introduction to Probabilistic Programming
+COGS 566 Probabilistic Models of Cognition
+MI 535 Biological Signal Analysis
