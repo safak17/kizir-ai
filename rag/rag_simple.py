@@ -50,6 +50,7 @@ SUMMARIZED ANSWER:  """
             model_path=model_path,
             n_gpu_layers=-1,
             n_batch=512,
+            max_tokens = 8192,
             n_ctx=8192,
             callback_manager=self.callback_manager,
             verbose=False,
