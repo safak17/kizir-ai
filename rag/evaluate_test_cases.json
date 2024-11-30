@@ -266,5 +266,121 @@
     {
         "question": "What programming languages are taught in the Cognitive Science program?",
         "ground_truths": "The program includes courses that utilize languages like Python and R for computational modeling."
+    },
+    {
+        "question": "What is the maximum duration allowed for completing a Master's program with a thesis at METU?",
+        "ground_truths": "The maximum duration for completing a Master's program with a thesis at METU is six academic semesters."
+    },
+    {
+        "question": "Is English proficiency required for admission to METU's graduate programs?",
+        "ground_truths": "Yes, applicants must document their proficiency in English, as the medium of instruction in METU's graduate programs is English."
+    },
+    {
+        "question": "Can a student who has not completed their undergraduate degree apply for a Master's program at METU?",
+        "ground_truths": "Yes, candidates in their final semester of undergraduate studies may apply to Master's programs, provided they fulfill all other application requirements."
+    },
+    {
+        "question": "Are there any provisions for students to take a leave of absence during their graduate studies at METU?",
+        "ground_truths": "Yes, semesters for which students have been granted a leave of absence by the concerned administrative board are not included in the normal, maximum, and additional periods of study."
+    },
+    {
+        "question": "What is the validity period for ALES exam scores when applying to METU's graduate programs?",
+        "ground_truths": "ALES exam scores are valid for five years from the date of the exam."
+    },
+    {
+        "question": "What is the minimum ALES score required for admission to METU's graduate programs?",
+        "ground_truths": "The minimum ALES score required is determined by the Graduate School Department (GSD) and must be no lower than the base score specified in the Graduate Education Regulation."
+    },
+    {
+        "question": "Can international students apply to METU's graduate programs without an ALES score?",
+        "ground_truths": "International students may apply with GRE or GMAT scores, as determined by the concerned GSD."
+    },
+    {
+        "question": "Is it possible to transfer credits from another institution to a graduate program at METU?",
+        "ground_truths": "Yes, course substitution is possible, but the number of exempted courses cannot exceed 50% of the course load of the concerned graduate program."
+    },
+    {
+        "question": "What is the medium of instruction for graduate programs at METU?",
+        "ground_truths": "The medium of instruction in METU's graduate programs is English."
+    },
+    {
+        "question": "Are there any non-thesis Master's programs available at METU?",
+        "ground_truths": "Yes, METU offers both thesis and non-thesis Master's programs."
+    },
+    {
+        "question": "How is the academic year structured at METU?",
+        "ground_truths": "One academic year comprises two semesters, each of which is a minimum of sixteen weeks, including the period for final exams."
+    },
+    {
+        "question": "Can students enroll in courses conducted in languages other than English at METU?",
+        "ground_truths": "Courses conducted in Turkish or any other language are determined by the Senate."
+    },
+    {
+        "question": "What is the maximum duration allowed for completing a Doctoral program at METU?",
+        "ground_truths": "The maximum duration for completing a Doctoral program at METU is twelve academic semesters."
+    },
+    {
+        "question": "Are there any joint graduate programs offered by METU?",
+        "ground_truths": "Yes, METU offers national and international graduate joint-degree programs with institutions of higher education within the country or abroad."
+    },
+    {
+        "question": "What is the process for applying to a graduate program at METU?",
+        "ground_truths": "Applications to graduate programs are made to the concerned Graduate School Directorates within the period announced in the academic calendar."
+    },
+    {
+        "question": "Can students be exempted from certain courses in the graduate program at METU?",
+        "ground_truths": "Yes, students can be exempted from certain courses, and the principles regarding exemptions are determined by the Senate."
+    },
+    {
+        "question": "What is the grading system used in METU's graduate programs?",
+        "ground_truths": "Students are assigned a letter grade for each course at the end of the semester, with coefficients ranging from 4.00 for an AA to 0.00 for an FF."
+    },
+    {
+        "question": "Is attendance mandatory for courses in METU's graduate programs?",
+        "ground_truths": "Yes, not fulfilling the attendance requirements can result in receiving an NA grade, which is processed as an FF in the calculation of the Grade Point Average."
+    },
+    {
+        "question": "Can students take courses from other universities while enrolled in a graduate program at METU?",
+        "ground_truths": "Yes, with the approval of the concerned Graduate School Administrative Board, students may take courses from other institutions."
+    },
+    {
+        "question": "What happens if a student fails to register for a semester in a graduate program at METU?",
+        "ground_truths": "Semesters spent unregistered due to failure to re-register are included in the normal, maximum, and additional periods of study."
+    },
+    {
+        "question": "Are there any provisions for students to extend their study period beyond the maximum duration at METU?",
+        "ground_truths": "The regulations do not specify provisions for extending the study period beyond the maximum duration."
+    },
+    {
+        "question": "Can students be dismissed from a graduate program at METU for academic reasons?",
+        "ground_truths": "Yes, students who fail to meet the academic requirements may be dismissed from the program."
+    },
+    {
+        "question": "Is there a comprehensive examination requirement for Doctoral students at METU?",
+        "ground_truths": "Yes, Doctoral students are required to pass the Comprehensive Examination for Doctoral Students (CEDS)."
+    },
+    {
+        "question": "Can students appeal their grades in METU's graduate programs?",
+        "ground_truths": "The regulations do not specify a formal process for grade appeals."
+    },
+    {
+        "question": "Are there any scholarships available for graduate students at METU?",
+        "ground_truths": "The regulations do not specify scholarship provisions; students should consult the university's scholarship office for information."
+    },
+    {
+        "question": "Can students switch from a non-thesis to a thesis Master's program at METU?",
+        "ground_truths": "The regulations do not specify provisions for switching between program types."
+    },
+    {
+        "question": "Is there a minimum GPA requirement for graduation from METU's graduate programs?",
+        "ground_truths": "The regulations do not specify a minimum GPA requirement for graduation."
+    },
+    {
+        "question": "Can students take a semester off for personal reasons during their graduate studies at METU?",
+        "ground_truths": "Yes, students may be granted a leave of absence by the concerned administrative board."
+    },
+    {
+        "question": "Are there any language proficiency requirements for non-native English speakers applying to METU's graduate programs?",
+        "ground_truths": "Yes, non-native English speakers must document their proficiency in English through exams like the EPE or other recognized international language exams."
     }
 ]

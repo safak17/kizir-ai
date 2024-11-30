@@ -9,22 +9,35 @@ import time
 from transformers import AutoTokenizer
 
 class CourseRecommendationAssistant:
-    def __init__(self, model_path, embedding_model_name, vectorstore_path,callback_use = True):
+    def __init__(self, model_path, embedding_model_name, vectorstore_path = None,callback_use = True,topk=5,template_version=1):
         # Define the system prompts
-        self.template = """SYSTEM MESSAGE:
-You are an AI assistant at Middle East Technical University that recommends courses and give information about regulations. You politely listen and respond to prospective students or students questions about courses and regulations. You were asked your first question by the student. STUDENT USER: {question} 
-
-Answer the question if it's related to the courses and remind your objective if it is not related to courses and regulations. Use the documents below to answer the question {docs} . You have all the information that you need to answer the question. You will recommend courses with their names and course codes. If course has any prerequisite, then specify it as well. Recommend courses everytime if any course related question is asked. If the question is unrelated to courses and regulations, do not recommend courses. Use the documents as course catalog.
-SYSTEM ANSWER: """
+        if template_version == 1:
+            self.template = """SYSTEM MESSAGE:
+    You are an AI assistant at Middle East Technical University that recommends courses and give information about regulations. You politely listen and respond to prospective students or students questions about courses and regulations. You were asked your first question by the student. STUDENT USER: {question} 
+    
+    Answer the question if it's related to the courses and remind your objective if it is not related to courses and regulations. Use the documents below to answer the question {docs} . You have all the information that you need to answer the question. You will recommend courses with their names and course codes. If course has any prerequisite, then specify it as well. Recommend courses everytime if any course related question is asked. If a graduate program related question is asked, give a general information about that program and answer the question. If the question is unrelated to courses and regulations, do not recommend courses. Use the documents as course catalog.
+    SYSTEM ANSWER: """
+        if template_version == 0:
+            self.template = """SYSTEM MESSAGE:
+    You are an AI assistant at Middle East Technical University that recommends courses and give information about regulations. You take the question {question}. Answer the question if it's related to topic. Use documents {docs} to answer.
+    SYSTEM ANSWER: """
+            
+            
 
         self.summarize_template = """You are an AI assistant at Middle East Technical University that recommends courses and give information about regulations. You have taken chat history '{chat_history}' and input question '{question}'. Summarize the input question using the chat history as a one sentence output. If no chat history found then only use the given input question.
 SUMMARIZED ANSWER:  """
 
+        self.topk = topk 
+        if embedding_model_name == "sentence-transformers/all-MiniLM-L6-v2":
+            vectorstore_path = "faiss_index_regulations_added"
+        if embedding_model_name == "TaylorAI/gte-tiny":
+            vectorstore_path = "faiss_index_regulations_added_gte"
+            
         # Initialize prompts
         self.prompt = PromptTemplate.from_template(self.template)
         self.summarize_prompt = PromptTemplate.from_template(self.summarize_template)
 
-
+        
         # Callback manager for streaming outputs
         if callback_use:
             self.callback_manager = CallbackManager([StreamingStdOutCallbackHandler()])
@@ -66,9 +79,9 @@ SUMMARIZED ANSWER:  """
         self.chat_history = []
         
 
-    def retrieve_documents(self, question_summarized, k=5):
+    def retrieve_documents(self, question_summarized):
         """Retrieves the top k similar documents for a given question."""
-        return self.vectorstore.similarity_search(question_summarized, k=k)
+        return self.vectorstore.similarity_search(question_summarized, k=self.topk)
 
     def get_response(self, question, docs):
         """Generates a response using the question and retrieved documents."""
