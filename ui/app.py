@@ -2,13 +2,17 @@ import streamlit as st
 import asyncio
 import websockets
 import html
+import uuid 
+import json
+if "session_id" not in st.session_state:
+    st.session_state["session_id"] = str(uuid.uuid4())
 
 # Title and logo section
 col1, col2 = st.columns([0.8, 0.2])
 with col1:
     st.title("💬 MetuBOT")
 with col2:
-    st.image("logo.png", use_container_width=True)
+    st.image("logo.png", width = 100)
 st.caption("🚀 A METU course support chatbot powered by KIZIR-AI")
 
 # Initialize chat history and stop state if not already in session state
@@ -63,15 +67,38 @@ async def fetch_response_stream(user_message):
     uri = "ws://localhost:9090/llm"
     try:
         async with websockets.connect(uri) as websocket:
-            await websocket.send(user_message)
+            # Send message with session ID
+            is_message = False
+            is_continue = False
+            package = {st.session_state["session_id"] +"SessionGuid"+ user_message}
+            await websocket.send(package)
+
             response = ""
             async for word in websocket:
                 if st.session_state["stop"]:
                     break
                 if word == "<end-of-response>":
                     break
-                response += word
-                yield response
+
+                # Parse the JSON response and extract the message
+                try:
+                    word_content = json.loads(word)
+                except json.JSONDecodeError:
+                    word_content = word  # Fallback to raw word if JSON parsing fails
+                if 'SessionGuid' in word_content:
+                    is_message = True
+                    is_continue = True
+                if(is_message):
+                    word_content = word_content.split('SessionGuid', 1)[1]
+                    is_message = False
+
+                if is_continue:
+                        
+                    print(word_content)
+                    response += word_content
+                    yield response
+
+
     except websockets.exceptions.ConnectionClosedError:
         yield "Connection was closed unexpectedly."
 
