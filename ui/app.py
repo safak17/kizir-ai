@@ -83,8 +83,11 @@ async def fetch_response_stream(user_message):
                 # Yield the incremental response
                 yield response
 
-    except websockets.exceptions.ConnectionClosedError:
-        yield "Connection was closed unexpectedly."
+    #except websockets.exceptions.ConnectionClosedError:
+    #    yield "Connection was closed unexpectedly."
+    except Exception as e:
+        print(str(e))
+
 
 # Handle user input and streaming response
 if user_input:

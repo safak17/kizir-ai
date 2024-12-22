@@ -1,15 +1,19 @@
 from langchain_community.llms import LlamaCpp
+from langchain_community.llms import Ollama
+#from langchain_ollama import ChatOllama
 from langchain_core.callbacks import CallbackManager, StreamingStdOutCallbackHandler
 from langchain_core.prompts import PromptTemplate
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_community.callbacks import get_openai_callback
+from langchain_openai import OpenAI
+import os 
 import time
 from transformers import AutoTokenizer
 
 class CourseRecommendationAssistant:
-    def __init__(self, model_path, embedding_model_name, vectorstore_path = None,callback_use = True,topk=5,template_version=1):
+    def __init__(self, model_path, embedding_model_name, vectorstore_path = None,callback_use = True,topk=5,template_version=1,device="cpu"):
         # Define the system prompts
         if template_version == 1:
             self.template = """SYSTEM MESSAGE:
@@ -46,21 +50,23 @@ SUMMARIZED ANSWER:  """
             
 
         # LLM model configuration
-        self.llm = LlamaCpp(
-            model_path=model_path,
-            n_gpu_layers=-1,
-            n_batch=512,
-            max_tokens = 8192,
-            n_ctx=8192,
-            callback_manager=self.callback_manager,
-            verbose=False,
-        )
-
+        self.llm =  OpenAI(openai_api_base=os.environ.get("LLAMACPP_API_ENDPOINT", "http://localhost:8070/v1"), openai_api_key="hello.world")
+        #self.llm = LlamaCpp(
+        #    model_path=model_path,
+        #    n_gpu_layers=-1,
+        #    n_batch=512,
+        #    max_tokens = 8192,
+        #    n_ctx=8192,
+        #    callback_manager=self.callback_manager,
+        #    verbose=False,
+        #)
+        self.llm = Ollama(model="gemma2:9b-instruct-q8_0",num_ctx=8192)
+        #self.llm = ChatOllama(model="gemma2:9b-instruct-q8_0")
         tokenizer_path = "google/gemma-2-2b"  
 
         self.tokenizer = AutoTokenizer.from_pretrained(tokenizer_path)
         # Embedding model configuration
-        model_kwargs = {'device': 'cuda:0'}
+        model_kwargs = {'device': device}
         self.embeddings = HuggingFaceEmbeddings(model_name=embedding_model_name, model_kwargs=model_kwargs)
 
         # Load vector store
@@ -70,11 +76,32 @@ SUMMARIZED ANSWER:  """
         self.llm_chain = self.prompt | self.llm
         self.summarize_chain = self.summarize_prompt | self.llm
 
-        self.chat_history = []
+        self.session_histories = {}
+        #self.chat_history = []
 
-    def get_summary(self, question, chat_history):
+    def initialize_session(self, session_id):
+        """Initialize session history for a new session_id."""
+        if session_id not in self.session_histories:
+            self.session_histories[session_id] = []
+
+    async def add_to_chat_history(self, session_id, response, question_summarized):
+        """Adds messages to the session-specific chat history."""
+        self.initialize_session(session_id)
+        self.session_histories[session_id].extend([
+            HumanMessage(content=question_summarized),
+            AIMessage(content=response),
+        ])
+
+    def delete_session_history(self, session_id):
+        """Deletes the chat history for a specific session_id."""
+        if session_id in self.session_histories:
+            del self.session_histories[session_id]
+            print(f"Deleted session history for session: {session_id}")
+
+    async def get_summary(self, question, chat_history,session_id):
+        self.initialize_session(session_id)
         """Summarizes the question based on chat history."""
-        return self.summarize_chain.invoke({"question": question, "chat_history": chat_history})
+        return await self.summarize_chain.ainvoke({"question": question, "chat_history": chat_history})
 
     def reset_history(self):
         self.chat_history = []
@@ -88,11 +115,6 @@ SUMMARIZED ANSWER:  """
         """Generates a response using the question and retrieved documents."""
         return self.llm_chain.invoke({"question": question, "docs": docs})
 
-    async def add_to_chat_history(self,response,question_summarized):
-        self.chat_history.extend([
-            HumanMessage(content=question_summarized),
-            AIMessage(content=response),
-        ])
         
 
 
@@ -185,10 +207,16 @@ SUMMARIZED ANSWER:  """
         self.reset_history()
         return response,docs
 
-    async def stream(self,question):
+    async def stream(self,question,session_id):
+        self.initialize_session(session_id)
+        chat_history = self.session_histories[session_id]
+        print("Question",question)
         #question_summarized = self.summarize_chain.astream({"question": question, "chat_history": self.chat_history})
-        question_summarized = self.get_summary(question, self.chat_history)
+        question_summarized = await self.get_summary(question, chat_history,session_id)
+        print("Summarized Question",question_summarized)
         docs = self.retrieve_documents(question_summarized)
+        print("Summarized Question",question_summarized)
+        print(docs)
         response = self.llm_chain.astream({"question": question_summarized, "docs": docs})
         return question_summarized,response
 
